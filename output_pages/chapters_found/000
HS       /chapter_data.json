@@ -1,0 +1,6 @@
+{
+  "Title": "000\nHS       ",
+  "Text": [
+    "of Basic Education 2014\n130  CHAPTER 5 MAPWORK \nMind the Gap CAPS Grade 12 Geography\nChapter\n5\nExample of a topographic map calculation:\nCalculate the vertical exaggeration for a cross \nsection drawn on a topographical map with a \nvertical scale of 1 cm = 20 m.\nVE = VS ÷ HS\nStep 1:\nVS: 1 cm = 20 m\n1 cm = 20 × 100 cm = 2000 cm\nVS 1:2000\nVS     1    \n2 000\nStep 2:\nHS 1:50 000\nHS       1     \n50 000\nStep 3:\nVE =     1     ÷      1     \n \n2 000  50 000\nStep 4:\nVE =     1     × 50 000\n \n2 000       1    \nStep 5:\nVE =  50 000\n2 000\nStep 6:\nAnswer:\nVE = 25 times\nExample of an orthophoto calculation:\nCalculate the vertical exaggeration for a cross \nsection drawn on an orthophoto with a vertical \nscale of 1 cm = 20 m.\nVE = VS ÷ HS\nStep 1 :\nVS: 1 cm = 20 m\n1 cm = 20 × 100 cm = 2000 cm\nVS 1:2000\nVS     1    \n2 000\nStep 2:\nHS 1:10"
+  ]
+}

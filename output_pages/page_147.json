@@ -1,0 +1,1111 @@
+{
+  "Text": [
+    {
+      "number": 0,
+      "type": 0,
+      "bbox": [
+        58.17380142211914,
+        805.1014404296875,
+        539.1188354492188,
+        829.632080078125
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "font": "HelveticaNeueLTStd-Cn",
+              "color": 7171696,
+              "ascender": 0.9319999814033508,
+              "descender": -0.21199999749660492,
+              "text": "© Department of Basic Education 2014",
+              "origin": [
+                58.17380142211914,
+                812.5574340820312
+              ],
+              "bbox": [
+                58.17380142211914,
+                805.1014404296875,
+                175.06817626953125,
+                814.25341796875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            58.17380142211914,
+            805.1014404296875,
+            175.06817626953125,
+            814.25341796875
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 4,
+              "font": "HelveticaNeueLTStd-MdCn",
+              "color": 0,
+              "ascender": 0.9509999752044678,
+              "descender": -0.2160000056028366,
+              "text": "Mind the Gap CAPS Grade 12 ",
+              "origin": [
+                58.17380142211914,
+                827.39208984375
+              ],
+              "bbox": [
+                58.17380142211914,
+                817.882080078125,
+                171.36178588867188,
+                829.5520629882812
+              ]
+            },
+            {
+              "size": 9.5,
+              "flags": 4,
+              "font": "HelveticaNeueLTStd-Cn",
+              "color": 0,
+              "ascender": 0.9319999814033508,
+              "descender": -0.21199999749660492,
+              "text": "Geography",
+              "origin": [
+                171.3616943359375,
+                827.39208984375
+              ],
+              "bbox": [
+                171.3616943359375,
+                818.5380859375,
+                209.07574462890625,
+                829.4060668945312
+              ]
+            },
+            {
+              "size": 9.5,
+              "flags": 4,
+              "font": "HelveticaNeueLTStd-Roman",
+              "color": 0,
+              "ascender": 0.9520000219345093,
+              "descender": -0.21400000154972076,
+              "text": " ",
+              "origin": [
+                209.07574462890625,
+                827.39208984375
+              ],
+              "bbox": [
+                209.07574462890625,
+                818.3480834960938,
+                211.7167510986328,
+                829.4251098632812
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            58.17380142211914,
+            817.882080078125,
+            211.7167510986328,
+            829.5520629882812
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 4,
+              "font": "HelveticaNeueLTStd-Cn",
+              "color": 0,
+              "ascender": 0.9319999814033508,
+              "descender": -0.21199999749660492,
+              "text": "CHAPTER 5 MAPWORK",
+              "origin": [
+                417.5978088378906,
+                827.39208984375
+              ],
+              "bbox": [
+                417.5978088378906,
+                818.0720825195312,
+                517.8377685546875,
+                829.5120849609375
+              ]
+            },
+            {
+              "size": 9.5,
+              "flags": 4,
+              "font": "HelveticaNeueLTStd-Roman",
+              "color": 0,
+              "ascender": 0.9520000219345093,
+              "descender": -0.21400000154972076,
+              "text": "  ",
+              "origin": [
+                518.8369140625,
+                827.39208984375
+              ],
+              "bbox": [
+                518.8369140625,
+                818.3480834960938,
+                524.118896484375,
+                829.4251098632812
+              ]
+            },
+            {
+              "size": 10.0,
+              "flags": 20,
+              "font": "HelveticaNeueLTStd-BdCn",
+              "color": 0,
+              "ascender": 0.9610000252723694,
+              "descender": -0.2240000069141388,
+              "text": "127",
+              "origin": [
+                524.118896484375,
+                827.39208984375
+              ],
+              "bbox": [
+                524.118896484375,
+                817.7821044921875,
+                539.1188354492188,
+                829.632080078125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            417.5978088378906,
+            817.7821044921875,
+            539.1188354492188,
+            829.632080078125
+          ]
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "type": 0,
+      "bbox": [
+        502.0249938964844,
+        24.69493865966797,
+        566.8880004882812,
+        40.19482421875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 12.723400115966797,
+              "flags": 4,
+              "font": "HelveticaNeueLTStd-Md",
+              "color": 12303808,
+              "ascender": 0.9520000219345093,
+              "descender": -0.22100000083446503,
+              "text": "Chapter",
+              "origin": [
+                502.0249938964844,
+                36.8076171875
+              ],
+              "bbox": [
+                502.0249938964844,
+                24.69493865966797,
+                549.1524658203125,
+                39.61948776245117
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            502.0249938964844,
+            24.69493865966797,
+            549.1524658203125,
+            39.61948776245117
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 12.666799545288086,
+              "flags": 20,
+              "font": "HelveticaInfant-Bold",
+              "color": 16777215,
+              "ascender": 0.9620000123977661,
+              "descender": -0.2290000021457672,
+              "text": "5",
+              "origin": [
+                559.8452758789062,
+                37.29412841796875
+              ],
+              "bbox": [
+                559.8452758789062,
+                25.108667373657227,
+                566.8880004882812,
+                40.19482421875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            559.8452758789062,
+            25.108667373657227,
+            566.8880004882812,
+            40.19482421875
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "type": 0,
+      "bbox": [
+        56.692901611328125,
+        54.31378173828125,
+        399.6200256347656,
+        147.76751708984375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "Figure 5.3.3 below is a contour map of a landform. If we had to draw a ",
+              "origin": [
+                56.692901611328125,
+                64.39532470703125
+              ],
+              "bbox": [
+                56.692901611328125,
+                54.31378173828125,
+                399.61346435546875,
+                66.78546142578125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            54.31378173828125,
+            399.61346435546875,
+            66.78546142578125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "cross section from A to B on Figure 5.3.3 we would first imagine we were ",
+              "origin": [
+                56.692901611328125,
+                77.892333984375
+              ],
+              "bbox": [
+                56.692901611328125,
+                67.810791015625,
+                399.6200256347656,
+                80.282470703125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            67.810791015625,
+            399.6200256347656,
+            80.282470703125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "walking from A to B:",
+              "origin": [
+                56.692901611328125,
+                91.38934326171875
+              ],
+              "bbox": [
+                56.692901611328125,
+                81.30780029296875,
+                148.23709106445312,
+                93.77947998046875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            81.30780029296875,
+            148.23709106445312,
+            93.77947998046875
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "• ",
+              "origin": [
+                56.692901611328125,
+                104.8863525390625
+              ],
+              "bbox": [
+                56.692901611328125,
+                94.8048095703125,
+                66.77989959716797,
+                107.2764892578125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            94.8048095703125,
+            66.77989959716797,
+            107.2764892578125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "Looking at the heights on the contours we see we are walking uphill;",
+              "origin": [
+                76.53690338134766,
+                104.8863525390625
+              ],
+              "bbox": [
+                76.53690338134766,
+                94.8048095703125,
+                391.7539367675781,
+                107.2764892578125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            76.53690338134766,
+            94.8048095703125,
+            391.7539367675781,
+            107.2764892578125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "• ",
+              "origin": [
+                56.692901611328125,
+                118.38336181640625
+              ],
+              "bbox": [
+                56.692901611328125,
+                108.30181884765625,
+                66.77989959716797,
+                120.77349853515625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            108.30181884765625,
+            66.77989959716797,
+            120.77349853515625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "Then we go downhill a little bit;",
+              "origin": [
+                76.53690338134766,
+                118.38336181640625
+              ],
+              "bbox": [
+                76.53690338134766,
+                108.30181884765625,
+                218.7548065185547,
+                120.77349853515625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            76.53690338134766,
+            108.30181884765625,
+            218.7548065185547,
+            120.77349853515625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "• ",
+              "origin": [
+                56.692901611328125,
+                131.88037109375
+              ],
+              "bbox": [
+                56.692901611328125,
+                121.798828125,
+                66.77989959716797,
+                134.2705078125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            121.798828125,
+            66.77989959716797,
+            134.2705078125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "Then uphill again; and ",
+              "origin": [
+                76.53690338134766,
+                131.88037109375
+              ],
+              "bbox": [
+                76.53690338134766,
+                121.798828125,
+                181.83990478515625,
+                134.2705078125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            76.53690338134766,
+            121.798828125,
+            181.83990478515625,
+            134.2705078125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "• ",
+              "origin": [
+                56.692901611328125,
+                145.37738037109375
+              ],
+              "bbox": [
+                56.692901611328125,
+                135.29583740234375,
+                66.77989959716797,
+                147.76751708984375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            135.29583740234375,
+            66.77989959716797,
+            147.76751708984375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "Then downhill to B.",
+              "origin": [
+                76.53690338134766,
+                145.37738037109375
+              ],
+              "bbox": [
+                76.53690338134766,
+                135.29583740234375,
+                164.3697052001953,
+                147.76751708984375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            76.53690338134766,
+            135.29583740234375,
+            164.3697052001953,
+            147.76751708984375
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "type": 0,
+      "bbox": [
+        56.692901611328125,
+        335.1633605957031,
+        234.17987060546875,
+        346.5012512207031
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 2,
+              "font": "FranklinGothic-BookItali",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "Figure 5.3.3: A contour map of a landform",
+              "origin": [
+                56.692901611328125,
+                344.3283996582031
+              ],
+              "bbox": [
+                56.692901611328125,
+                335.1633605957031,
+                234.17987060546875,
+                346.5012512207031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            335.1633605957031,
+            234.17987060546875,
+            346.5012512207031
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "type": 0,
+      "bbox": [
+        56.692901611328125,
+        356.2508850097656,
+        399.60919189453125,
+        382.2195739746094
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "A cross section is drawn on a graph. We use the vertical axis to show the ",
+              "origin": [
+                56.692901611328125,
+                366.3324279785156
+              ],
+              "bbox": [
+                56.692901611328125,
+                356.2508850097656,
+                399.60919189453125,
+                368.7225646972656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            356.2508850097656,
+            399.60919189453125,
+            368.7225646972656
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "height and horizontal axis to show the distance.",
+              "origin": [
+                56.692901611328125,
+                379.8294372558594
+              ],
+              "bbox": [
+                56.692901611328125,
+                369.7478942871094,
+                276.7754211425781,
+                382.2195739746094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            369.7478942871094,
+            276.7754211425781,
+            382.2195739746094
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "type": 0,
+      "bbox": [
+        56.692901611328125,
+        389.76788330078125,
+        399.6136169433594,
+        415.736572265625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "If the vertical and horizontal scales are the same, it is not easy to see the ",
+              "origin": [
+                56.692901611328125,
+                399.84942626953125
+              ],
+              "bbox": [
+                56.692901611328125,
+                389.76788330078125,
+                399.6136169433594,
+                402.23956298828125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            389.76788330078125,
+            399.6136169433594,
+            402.23956298828125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "differences in slope.",
+              "origin": [
+                56.692901611328125,
+                413.346435546875
+              ],
+              "bbox": [
+                56.692901611328125,
+                403.264892578125,
+                150.45249938964844,
+                415.736572265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            403.264892578125,
+            150.45249938964844,
+            415.736572265625
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "type": 0,
+      "bbox": [
+        56.692901611328125,
+        423.2848815917969,
+        399.617919921875,
+        462.7505798339844
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "Figure 5.3.4 below shows the cross section from A to B (in Figure 5.3.3). ",
+              "origin": [
+                56.692901611328125,
+                433.3664245605469
+              ],
+              "bbox": [
+                56.692901611328125,
+                423.2848815917969,
+                399.5871887207031,
+                435.7565612792969
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            423.2848815917969,
+            399.5871887207031,
+            435.7565612792969
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "Because the vertical and horizontal scales are the same (1:10 000), we do ",
+              "origin": [
+                56.692901611328125,
+                446.8634338378906
+              ],
+              "bbox": [
+                56.692901611328125,
+                436.7818908691406,
+                399.617919921875,
+                449.2535705566406
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            436.7818908691406,
+            399.617919921875,
+            449.2535705566406
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "not really get a good idea of the differences in slope.",
+              "origin": [
+                56.692901611328125,
+                460.3604431152344
+              ],
+              "bbox": [
+                56.692901611328125,
+                450.2789001464844,
+                299.307861328125,
+                462.7505798339844
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            450.2789001464844,
+            299.307861328125,
+            462.7505798339844
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "type": 0,
+      "bbox": [
+        56.692901611328125,
+        669.9232788085938,
+        393.02459716796875,
+        681.2611694335938
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 2,
+              "font": "FranklinGothic-BookItali",
+              "color": 0,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "Figure 5.3.4: Cross section from A to B (vertical and horizontal scales the same)",
+              "origin": [
+                56.692901611328125,
+                679.0883178710938
+              ],
+              "bbox": [
+                56.692901611328125,
+                669.9232788085938,
+                393.02459716796875,
+                681.2611694335938
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            56.692901611328125,
+            669.9232788085938,
+            393.02459716796875,
+            681.2611694335938
+          ]
+        }
+      ]
+    }
+  ],
+  "Pictures": [
+    {
+      "bbox": [
+        55.418399810791016,
+        165.17355346679688,
+        364.9606628417969,
+        328.2933349609375
+      ],
+      "filename": "output_pages/images/image_147_320d9f8e9cc9f76aa1e1912170da4029.png",
+      "width": 364,
+      "height": 328
+    },
+    {
+      "bbox": [
+        55.27750015258789,
+        484.3670959472656,
+        472.8774719238281,
+        666.76708984375
+      ],
+      "filename": "output_pages/images/image_147_00284a495bfc27eb028ed776d6dd24a1.png",
+      "width": 472,
+      "height": 666
+    }
+  ],
+  "TOC": [
+    "2014\nMind the Gap CAPS Grade ",
+    "12 Geography \nCHAPTER ",
+    "5 MAPWORK  ",
+    "127\nChapter\n",
+    "5\nFigure ",
+    "3 below is a contour map of a landform",
+    "3 we would first imagine we were \nwalking from A to B",
+    "4 below shows the cross section from A to B "
+  ],
+  "Chapters": [
+    {
+      "Title": "2014\nMind the Gap CAPS Grade ",
+      "Text": [
+        "on 2014\nMind the Gap CAPS Grade 12 Geography \nCHAPTER 5 MAPWORK  127\nChapter\n5\nFigure 5.3.3 below is a contour map of a landform. If we had to draw a \ncross section from A to B on Figure 5.3.3 we would first imagine we were \nwalking from A to B:\n• \nLooking at the heights on the contours we see we are walking uphill;\n• \nThen we go downhill a little bit;\n• \nThen uphill again; and \n• \nThen downhill to B.\nFigure 5.3.3: A contour map of a landform\nA cross section is drawn on a graph. We use the vertical axis to show the \nheight and horizontal axis to show the distance.\nIf the vertical and horizontal scales are the same, it is not easy to see the \ndifferences in slope.\nFigure 5.3.4 below shows the cross section from A to B (in Figure 5.3.3). \nBecause the vertical and horizontal scales are the same (1:10 000), we do \nnot really get a good idea of the differences in slope.\nFigure 5.3.4: Cross section from A to B (vertical and horizontal scales the same)"
+      ]
+    },
+    {
+      "Title": "12 Geography \nCHAPTER ",
+      "Text": [
+        "Education 2014\nMind the Gap CAPS Grade 12 Geography \nCHAPTER 5 MAPWORK  127\nChapter\n5\nFigure 5.3.3 below is a contour map of a landform. If we had to draw a \ncross section from A to B on Figure 5.3.3 we would first imagine we were \nwalking from A to B:\n• \nLooking at the heights on the contours we see we are walking uphill;\n• \nThen we go downhill a little bit;\n• \nThen uphill again; and \n• \nThen downhill to B.\nFigure 5.3.3: A contour map of a landform\nA cross section is drawn on a graph. We use the vertical axis to show the \nheight and horizontal axis to show the distance.\nIf the vertical and horizontal scales are the same, it is not easy to see the \ndifferences in slope.\nFigure 5.3.4 below shows the cross section from A to B (in Figure 5.3.3). \nBecause the vertical and horizontal scales are the same (1:10 000), we do \nnot really get a good idea of the differences in slope.\nFigure 5.3.4: Cross section from A to B (vertical and horizontal scales the same)"
+      ]
+    },
+    {
+      "Title": "5 MAPWORK  ",
+      "Text": [
+        "t of Basic Education 2014\nMind the Gap CAPS Grade 12 Geography \nCHAPTER 5 MAPWORK  127\nChapter\n5\nFigure 5.3.3 below is a contour map of a landform. If we had to draw a \ncross section from A to B on Figure 5.3.3 we would first imagine we were \nwalking from A to B:\n• \nLooking at the heights on the contours we see we are walking uphill;\n• \nThen we go downhill a little bit;\n• \nThen uphill again; and \n• \nThen downhill to B.\nFigure 5.3.3: A contour map of a landform\nA cross section is drawn on a graph. We use the vertical axis to show the \nheight and horizontal axis to show the distance.\nIf the vertical and horizontal scales are the same, it is not easy to see the \ndifferences in slope.\nFigure 5.3.4 below shows the cross section from A to B (in Figure 5.3.3). \nBecause the vertical and horizontal scales are the same (1:10 000), we do \nnot really get a good idea of the differences in slope.\nFigure 5.3.4: Cross section from A to B (vertical and horizontal scales the same)"
+      ]
+    },
+    {
+      "Title": "127\nChapter\n",
+      "Text": [
+        "of Basic Education 2014\nMind the Gap CAPS Grade 12 Geography \nCHAPTER 5 MAPWORK  127\nChapter\n5\nFigure 5.3.3 below is a contour map of a landform. If we had to draw a \ncross section from A to B on Figure 5.3.3 we would first imagine we were \nwalking from A to B:\n• \nLooking at the heights on the contours we see we are walking uphill;\n• \nThen we go downhill a little bit;\n• \nThen uphill again; and \n• \nThen downhill to B.\nFigure 5.3.3: A contour map of a landform\nA cross section is drawn on a graph. We use the vertical axis to show the \nheight and horizontal axis to show the distance.\nIf the vertical and horizontal scales are the same, it is not easy to see the \ndifferences in slope.\nFigure 5.3.4 below shows the cross section from A to B (in Figure 5.3.3). \nBecause the vertical and horizontal scales are the same (1:10 000), we do \nnot really get a good idea of the differences in slope.\nFigure 5.3.4: Cross section from A to B (vertical and horizontal scales the same)"
+      ]
+    },
+    {
+      "Title": "5\nFigure ",
+      "Text": [
+        "ent of Basic Education 2014\nMind the Gap CAPS Grade 12 Geography \nCHAPTER 5 MAPWORK  127\nChapter\n5\nFigure 5.3.3 below is a contour map of a landform. If we had to draw a \ncross section from A to B on Figure 5.3.3 we would first imagine we were \nwalking from A to B:\n• \nLooking at the heights on the contours we see we are walking uphill;\n• \nThen we go downhill a little bit;\n• \nThen uphill again; and \n• \nThen downhill to B.\nFigure 5.3.3: A contour map of a landform\nA cross section is drawn on a graph. We use the vertical axis to show the \nheight and horizontal axis to show the distance.\nIf the vertical and horizontal scales are the same, it is not easy to see the \ndifferences in slope.\nFigure 5.3.4 below shows the cross section from A to B (in Figure 5.3.3). \nBecause the vertical and horizontal scales are the same (1:10 000), we do \nnot really get a good idea of the differences in slope.\nFigure 5.3.4: Cross section from A to B (vertical and horizontal scales the same)"
+      ]
+    },
+    {
+      "Title": "3 below is a contour map of a landform",
+      "Text": [
+        "ind the Gap CAPS Grade 12 Geography \nCHAPTER 5 MAPWORK  127\nChapter\n5\nFigure 5.3.3 below is a contour map of a landform. If we had to draw a \ncross section from A to B on Figure 5.3.3 we would first imagine we were \nwalking from A to B:\n• \nLooking at the heights on the contours we see we are walking uphill;\n• \nThen we go downhill a little bit;\n• \nThen uphill again; and \n• \nThen downhill to B.\nFigure 5.3.3: A contour map of a landform\nA cross section is drawn on a graph. We use the vertical axis to show the \nheight and horizontal axis to show the distance.\nIf the vertical and horizontal scales are the same, it is not easy to see the \ndifferences in slope.\nFigure 5.3.4 below shows the cross section from A to B (in Figure 5.3.3). \nBecause the vertical and horizontal scales are the same (1:10 000), we do \nnot really get a good idea of the differences in slope.\nFigure 5.3.4: Cross section from A to B (vertical and horizontal scales the same)"
+      ]
+    },
+    {
+      "Title": "3 we would first imagine we were \nwalking from A to B",
+      "Text": [
+        "S Grade 12 Geography \nCHAPTER 5 MAPWORK  127\nChapter\n5\nFigure 5.3.3 below is a contour map of a landform. If we had to draw a \ncross section from A to B on Figure 5.3.3 we would first imagine we were \nwalking from A to B:\n• \nLooking at the heights on the contours we see we are walking uphill;\n• \nThen we go downhill a little bit;\n• \nThen uphill again; and \n• \nThen downhill to B.\nFigure 5.3.3: A contour map of a landform\nA cross section is drawn on a graph. We use the vertical axis to show the \nheight and horizontal axis to show the distance.\nIf the vertical and horizontal scales are the same, it is not easy to see the \ndifferences in slope.\nFigure 5.3.4 below shows the cross section from A to B (in Figure 5.3.3). \nBecause the vertical and horizontal scales are the same (1:10 000), we do \nnot really get a good idea of the differences in slope.\nFigure 5.3.4: Cross section from A to B (vertical and horizontal scales the same)"
+      ]
+    },
+    {
+      "Title": "4 below shows the cross section from A to B ",
+      "Text": [
+        "e Gap CAPS Grade 12 Geography \nCHAPTER 5 MAPWORK  127\nChapter\n5\nFigure 5.3.3 below is a contour map of a landform. If we had to draw a \ncross section from A to B on Figure 5.3.3 we would first imagine we were \nwalking from A to B:\n• \nLooking at the heights on the contours we see we are walking uphill;\n• \nThen we go downhill a little bit;\n• \nThen uphill again; and \n• \nThen downhill to B.\nFigure 5.3.3: A contour map of a landform\nA cross section is drawn on a graph. We use the vertical axis to show the \nheight and horizontal axis to show the distance.\nIf the vertical and horizontal scales are the same, it is not easy to see the \ndifferences in slope.\nFigure 5.3.4 below shows the cross section from A to B (in Figure 5.3.3). \nBecause the vertical and horizontal scales are the same (1:10 000), we do \nnot really get a good idea of the differences in slope.\nFigure 5.3.4: Cross section from A to B (vertical and horizontal scales the same)"
+      ]
+    }
+  ],
+  "Questions": []
+}

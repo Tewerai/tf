@@ -1,0 +1,235 @@
+{
+  "Text": [
+    {
+      "number": 2,
+      "type": 0,
+      "bbox": [
+        96.58689880371094,
+        592.856201171875,
+        504.685302734375,
+        622.4576416015625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "font": "FranklinGothic-Demi",
+              "color": 16777215,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "The Mind the Gap study guide series assists you to make the leap by studying ",
+              "origin": [
+                96.58689880371094,
+                603.854248046875
+              ],
+              "bbox": [
+                96.58689880371094,
+                592.856201171875,
+                504.685302734375,
+                606.461669921875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            96.58689880371094,
+            592.856201171875,
+            504.685302734375,
+            606.461669921875
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "font": "FranklinGothic-Demi",
+              "color": 16777215,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "hard to achieve success in the Grade 12 exam.",
+              "origin": [
+                96.58689880371094,
+                619.8502197265625
+              ],
+              "bbox": [
+                96.58689880371094,
+                608.8521728515625,
+                341.5240478515625,
+                622.4576416015625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            96.58689880371094,
+            608.8521728515625,
+            341.5240478515625,
+            622.4576416015625
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "type": 0,
+      "bbox": [
+        96.58689880371094,
+        659.4303588867188,
+        337.2887878417969,
+        679.8385620117188
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 0,
+              "font": "FranklinGothic-Demi",
+              "color": 16777215,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "This publication is not for sale.",
+              "origin": [
+                96.58689880371094,
+                675.9274291992188
+              ],
+              "bbox": [
+                96.58689880371094,
+                659.4303588867188,
+                337.2887878417969,
+                679.8385620117188
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            96.58689880371094,
+            659.4303588867188,
+            337.2887878417969,
+            679.8385620117188
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "type": 0,
+      "bbox": [
+        96.58689880371094,
+        690.349853515625,
+        408.7427062988281,
+        718.8265380859375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 16777215,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "© Copyright Department of Basic Education www.education.gov.za  ",
+              "origin": [
+                96.58689880371094,
+                700.431396484375
+              ],
+              "bbox": [
+                96.58689880371094,
+                690.349853515625,
+                408.7427062988281,
+                702.821533203125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            96.58689880371094,
+            690.349853515625,
+            408.7427062988281,
+            702.821533203125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "font": "FranklinGothic-Book",
+              "color": 16777215,
+              "ascender": 0.91650390625,
+              "descender": -0.21728515625,
+              "text": "Call Centre 0800 202 933",
+              "origin": [
+                96.5869140625,
+                716.4364013671875
+              ],
+              "bbox": [
+                96.5869140625,
+                706.3548583984375,
+                220.11061096191406,
+                718.8265380859375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            96.5869140625,
+            706.3548583984375,
+            220.11061096191406,
+            718.8265380859375
+          ]
+        }
+      ]
+    }
+  ],
+  "Pictures": [
+    {
+      "bbox": [
+        29.027870178222656,
+        747.7196044921875,
+        238.61505126953125,
+        821.3707885742188
+      ],
+      "filename": "output_pages/images/image_196_b1b3cd23539ebb375b1a80402e5bbde0.png",
+      "width": 238,
+      "height": 821
+    }
+  ],
+  "TOC": [
+    "12 exam"
+  ],
+  "Chapters": [
+    {
+      "Title": "12 exam",
+      "Text": [
+        "d the Gap study guide series assists you to make the leap by studying \nhard to achieve success in the Grade 12 exam.\nThis publication is not for sale.\n© Copyright Department of Basic Education www.education.gov.za  \nCall Centre 0800 202 933"
+      ]
+    }
+  ],
+  "Questions": []
+}
