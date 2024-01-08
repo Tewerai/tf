@@ -1,657 +1,788 @@
 {
     "1.1.1": {
+        "question_description": "to",
         "detailed_question": "The air movement associated with upslope flow",
         "answer": "A (1)",
         "related_images": []
     },
     "1.1.2": {
+        "question_description": "Air movement that occurs at the night",
         "detailed_question": "Air movement that occurs at the night",
         "answer": "B (1)",
         "related_images": []
     },
     "1.1.3": {
+        "question_description": "Air movement that originates due to the rate of insolation",
         "detailed_question": "Air movement that originates due to the rate of insolation",
         "answer": "A (1)",
         "related_images": []
     },
     "1.1.4": {
-        "detailed_question": "Air movement that mostly reduces air pollution at the bottom of the",
+        "question_description": "Air movement that mostly reduces air pollution at the bottom of the \nvalley",
+        "detailed_question": "Air movement that mostly reduces air pollution at the bottom of the \nvalley",
         "answer": "A (1)",
         "related_images": []
     },
     "1.1.5": {
+        "question_description": "Air movement associated with dense, heavy air",
         "detailed_question": "Air movement associated with dense, heavy air",
         "answer": "B (1)",
         "related_images": []
     },
     "1.1.6": {
-        "detailed_question": "Air movement associated with the formation of frost on the valley",
+        "question_description": "Air movement associated with the formation of frost on the valley \nfloor",
+        "detailed_question": "Air movement associated with the formation of frost on the valley \nfloor",
         "answer": "B (1)",
         "related_images": []
     },
     "1.1.7": {
-        "detailed_question": "The direction of air movement determined by gravitational forces",
-        "answer": "B (1)",
+        "question_description": "The direction of air movement determined by gravitational forces  \n \n(7 x 1) \n  \n(7)",
+        "detailed_question": "The direction of air movement determined by gravitational forces  \n \n(7 x 1) \n  \n(7)",
+        "answer": "B (1) \n(7 x 1) (7)",
         "related_images": []
     },
     "1.2.1": {
-        "detailed_question": "1.2.2",
+        "question_description": "to",
+        "detailed_question": "1.",
         "answer": "I  (1)",
         "related_images": []
     },
     "1.2.3": {
-        "detailed_question": "1.2.4",
+        "question_description": "1.",
+        "detailed_question": "1.",
         "answer": "D (1)",
         "related_images": []
     },
     "1.2.5": {
-        "detailed_question": "1.2.6",
+        "question_description": "1.",
+        "detailed_question": "1.",
         "answer": "C (1)",
         "related_images": []
     },
     "1.2.7": {
-        "detailed_question": "1.2.8",
+        "question_description": "1.",
+        "detailed_question": "1.",
         "answer": "B (1)",
         "related_images": []
     },
     "1.3.1": {
-        "detailed_question": "Give evidence from the diagram that suggests that weather",
-        "answer": "Cold and warm fronts visible (Cold/Warm front visible) (1)",
+        "question_description": "Give evidence from the diagram that suggests that weather                \nsystem A is a mid-latitude cyclone. \n(1 x 1) \n \n \n(1)",
+        "detailed_question": "Give evidence from the diagram that suggests that weather                \nsystem A is a mid-latitude cyclone. \n(1 x 1) \n \n \n(1)",
+        "answer": "Cold and warm fronts visible (Cold/Warm front visible) (1) \nPresence of an occluded front (1)  \nLow pressure (less than 1000hPa) (1) \nPresence of warm/cold sectors (1) \nMid-latitude cyclone is moving from west to east (as indicated by the symbol \nof the cold front) (1) \nIt is where a mid-latitude cyclone should be located in winter (date) (1)  \n[ANY ONE] \n(1 x 1) (1)",
         "related_images": []
     },
     "1.3.2": {
-        "detailed_question": "Why does this weather system originate at the polar front?",
-        "answer": "Convergence (meeting) of cold (dry) polar air and warm (moist) sub-tropical",
+        "question_description": "Why does this weather system originate at the polar front? \n(1 x 2)  \n(2)",
+        "detailed_question": "Why does this weather system originate at the polar front? \n(1 x 2)  \n(2)",
+        "answer": "Convergence (meeting) of cold (dry) polar air and warm (moist) sub-tropical \nair masses (2) \nFrictional drag (disturbances) occurs at the polar front (2) \n[ANY ONE] \n(1 x 2) (2)",
         "related_images": []
     },
     "1.3.3": {
-        "detailed_question": "Give a reason for the direction of movement of this weather system.",
-        "answer": "It is steered/driven by the westerly winds (2)",
+        "question_description": "Give a reason for the direction of movement of this weather system.  \n                                                                                                   (1 x 2) \n \n \n(2)",
+        "detailed_question": "Give a reason for the direction of movement of this weather system.  \n                                                                                                   (1 x 2) \n \n \n(2)",
+        "answer": "It is steered/driven by the westerly winds (2) \nLocated in the westerly wind belt (2) \nDriven by jet streams (2) \n[ANY ONE] \n(1 x 2) (2)",
         "related_images": []
     },
     "1.3.4": {
-        "detailed_question": "Why is the cold front associated with severe weather conditions?",
-        "answer": "Steep pressure gradient (isobars are close together) (2)",
+        "question_description": "Why is the cold front associated with severe weather conditions?   \n                                                                                                   (1 x 2) \n \n \n(2)",
+        "detailed_question": "Why is the cold front associated with severe weather conditions?   \n                                                                                                   (1 x 2) \n \n \n(2)",
+        "answer": "Steep pressure gradient (isobars are close together) (2) \nRapid upliftment of air mass (2) \nPresence of cumulonimbus clouds (2) \nBacking of wind (2) \n[ANY ONE] \n(1 x 2) (2)",
         "related_images": []
     },
     "1.3.5": {
-        "detailed_question": "Explain the formation of the stage of development shown in",
-        "answer": "Cold front moves faster than the warm front (2)",
+        "question_description": "Explain the formation of the stage of development shown in      \nFIGURE",
+        "detailed_question": "Explain the formation of the stage of development shown in      \nFIGURE",
+        "answer": "Cold front moves faster than the warm front (2) \nWarm air sector narrows as the cold front undercuts it (2) \nThe cold front catches up with the warm front (at the apex) (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "1.3.6": {
-        "detailed_question": "Why does the cold front of the mid-latitude cyclone have a positive",
-        "answer": "Increased rainfall fills up dams/rivers/jo-jo tanks which impacts positively on",
+        "question_description": "Why does the cold front of the mid-latitude cyclone have a positive \nimpact on agricultural activities in the Western Cape? \n(2 x 2) \n \n \n(4)",
+        "detailed_question": "Why does the cold front of the mid-latitude cyclone have a positive \nimpact on agricultural activities in the Western Cape? \n(2 x 2) \n \n \n(4)",
+        "answer": "Increased rainfall fills up dams/rivers/jo-jo tanks which impacts positively on \nthe agricultural sectors (2) \nEnables irrigation of winter crops which provides enough food for the local \nmarket (2) \nMore agricultural products (accept examples) available for manufacturing \nindustries/export (2) \nLow temperatures ideal for crops that thrive in cold conditions (2) \nCold conditions can kill pests that eat the crops (2) \nMore infiltration is causing a higher water table therefore ground water \nincreases (2) \nSupplies seasonal agricultural jobs (2) \nCleans polluted rivers as it is washed out pollution in river (2) \nImproves pasturage for livestock grazing (2) \nSoil fertility increases due to alluvium from flooding (2) \nContributes to food production/food security (2) \nAvailability of water for livestock (2) \n[ANY TWO]  \n(2 x 2) (4)",
         "related_images": []
     },
     "1.4.1": {
-        "detailed_question": "Does the line thunderstorm obtain its source of moisture from ocean",
-        "answer": "B (1)",
+        "question_description": "Does the line thunderstorm obtain its source of moisture from ocean \nA or B?                          \n \n(1 x 1) \n \n \n(1)",
+        "detailed_question": "Does the line thunderstorm obtain its source of moisture from ocean \nA or B?                          \n \n(1 x 1) \n \n \n(1)",
+        "answer": "B (1) \nAccept Indian Ocean (1) \n[ANY ONE] \n(1 x 1) (1)",
         "related_images": []
     },
     "1.4.2": {
-        "detailed_question": "Why is cold, dry air fed in from the South Atlantic High-Pressure",
-        "answer": "Divergence of air from South Atlantic High to the trough of low pressure in",
+        "question_description": "Why is cold, dry air fed in from the South Atlantic High-Pressure \nCell?                                                                           \n(1 x 2) \n \n \n(2)",
+        "detailed_question": "Why is cold, dry air fed in from the South Atlantic High-Pressure \nCell?                                                                           \n(1 x 2) \n \n \n(2)",
+        "answer": "Divergence of air from South Atlantic High to the trough of low pressure in \nthe interior (2) \nAnticlockwise rotation from South Atlantic High feeds in the cold air (2) \nCold air from above the Atlantic Ocean/Benguela current (2) \nAir is dry due to limited evaporation (2) \n[ANY ONE] \n(1 x 2) (2)",
         "related_images": []
     },
     "1.4.3": {
-        "detailed_question": "Explain how the formation of the moisture front at C results in line",
-        "answer": "Cool dry air from the south west meets warm moist air from the north east (2)",
+        "question_description": "Explain how the formation of the moisture front at C results in line \nthunderstorms. \n(2 x 2) \n \n \n(4)",
+        "detailed_question": "Explain how the formation of the moisture front at C results in line \nthunderstorms. \n(2 x 2) \n \n \n(4)",
+        "answer": "Cool dry air from the south west meets warm moist air from the north east (2) \nWarm air is forced to rise rapidly over colder air and the rising air cools and \ncondenses (cumulonimbus clouds form and thunderstorms occur) (2) \nThere is rapid rising of warm air along the east of the moisture front (2) \nMoisture front covers an extensive linear area (NW to SE) (2) \n [ANY TWO]  \n(2 x 2) (4)",
         "related_images": []
     },
     "1.4.4": {
-        "detailed_question": "In a paragraph of approximately EIGHT lines, explain the destructive",
-        "answer": "Torrential (Heavy) rainfall can cause extensive flooding (2)",
+        "question_description": "In a paragraph of approximately EIGHT lines, explain the destructive \n(harmful) nature of line thunderstorms. \n(4 x 2) \n \n \n(8)",
+        "detailed_question": "In a paragraph of approximately EIGHT lines, explain the destructive \n(harmful) nature of line thunderstorms. \n(4 x 2) \n \n \n(8)",
+        "answer": "Torrential (Heavy) rainfall can cause extensive flooding (2) \nLightning can cause extensive fires (accept examples) (2) \nLightning can cause the death of people and livestock (2) \nHail can cause damage to property (2) \nGale force winds can damage property/infrastructure/crops/ uproot trees (2) \nFlooding can lead to loss of human life/disrupt activities (2) \nCrops will be destroyed by heavy rainfall (2) \nRainfall can destroy property and infrastructure (accept examples) (2) \nThere will be widespread soil erosion/loss of fertile soil due to heavy rainfall \n(accept examples) (2) \nPoor visibility due to the heavy rainfall can cause accidents (2) \nEcosystems can be destroyed by flooding (2) \nLoss of biodiversity due to destructive nature of the rain (2) \nEconomic destruction (accept explained examples) (2)  \nSocial destruction (accept explained examples) (2) \nInterruption of traffic/lack of visibility due to torrential rain (2) \n[ANY FOUR]                                                                                      (4 x 2) (8)",
         "related_images": []
     },
     "1.5.1": {
-        "detailed_question": "Where do deltas form?",
-        "answer": "At the point where the river enters the sea/river mouth/lakes (1)",
+        "question_description": "Where do deltas form? \n(1 x 1)  \n(1)",
+        "detailed_question": "Where do deltas form? \n(1 x 1)  \n(1)",
+        "answer": "At the point where the river enters the sea/river mouth/lakes (1) \n(1 x 1) (1)",
         "related_images": []
     },
     "1.5.2": {
-        "detailed_question": "What evidence in the extract indicates that deltas are densely",
-        "answer": "They are home to hundreds of millions of people (1)",
+        "question_description": "What evidence in the extract indicates that deltas are densely \npopulated? \n(1 x 1) \n \n \n(1)",
+        "detailed_question": "What evidence in the extract indicates that deltas are densely \npopulated? \n(1 x 1) \n \n \n(1)",
+        "answer": "They are home to hundreds of millions of people (1) \n(1 x 1) (1)",
         "related_images": []
     },
     "1.5.3": {
-        "detailed_question": "According to the extract, how are cities disturbing the natural",
-        "answer": "Groundwater being pumped from aquifers (permeable rocks) (1)",
+        "question_description": "According to the extract, how are cities disturbing the natural \nformation of deltas? \n \n(1 x 1) \n \n \n(1)",
+        "detailed_question": "According to the extract, how are cities disturbing the natural \nformation of deltas? \n \n(1 x 1) \n \n \n(1)",
+        "answer": "Groundwater being pumped from aquifers (permeable rocks) (1) \n(1 x 1) (1)",
         "related_images": []
     },
     "1.5.4": {
-        "detailed_question": "Discuss the importance of protecting deltas.",
-        "answer": "Deltas are a source of water (2)",
+        "question_description": "Discuss the importance of protecting deltas. \n(2 x 2)  \n(4)",
+        "detailed_question": "Discuss the importance of protecting deltas. \n(2 x 2)  \n(4)",
+        "answer": "Deltas are a source of water (2) \nDeltas sustain all ecosystems (2) \nDeltas ensures biodiversity (2) \nDeltas provide fertile farming land for agricultural activities/food production \n(2) \nTourism (leisure activities) opportunities are created by deltas and \ncontributes to the economy (2) \nHome to many people/settlement (2)  \nCan be part of water transport system (2) \nDeltas are a source of protein (fish) (2) \nProvides water for fishing and aquaculture (2) \n[Accept candidates might write in the negative] \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "1.5.5": {
-        "detailed_question": "A recent environmental impact assessment has highlighted",
-        "answer": "Limit the number of people living on deltas to reduce the amount of water",
+        "question_description": "A recent environmental impact assessment has highlighted \nconcerns about the future sustainability of deltas. In a paragraph of \napproximately EIGHT lines, suggest strategies to protect areas like \ndeltas from the negative impact of human activities.               (4 x 2) \n \n \n \n \n(8)",
+        "detailed_question": "A recent environmental impact assessment has highlighted \nconcerns about the future sustainability of deltas. In a paragraph of \napproximately EIGHT lines, suggest strategies to protect areas like \ndeltas from the negative impact of human activities.               (4 x 2) \n \n \n \n \n(8)",
+        "answer": "Limit the number of people living on deltas to reduce the amount of water \npollution (2) \nReduce infrastructural development on deltas (2) \nPractice ecotourism to preserve deltas (2) \nRegulate mariculture in and around deltas (2) \nReduce agricultural activity to protect the fertility of the soil (2) \nReduce irrigation to ensure high water levels in the delta (2) \nLimit/regulate the extraction of groundwater beneath deltas (2) \nDeclare as conservation areas (2) \nEducating the population residing in area about the significance of deltas (2) \nBuffer (fencing off) delta areas (2) \nImpose fines on those who pollute delta areas (2) \nSustainable farming methods (accept examples) (2) \nMonitor/management upstream river development so rivers are not starved \nof sediments (2)  \nBuild fewer dams upstream to allow more sediment to be carried in rivers (2) \nLegislation to protect deltas (2)   \nRestrict no of hydroelectric power stations/dams/reservoirs which alter delta \necosystems (2) \nMaintain vegetation and plantations in and around the delta (2) \nRegular monitoring and testing of the water quality (River health \nprogrammes) (2) \n[ANY FOUR] \n(4 x 2) (8)",
         "related_images": []
     },
     "1.6.1": {
-        "detailed_question": "What is river rejuvenation?",
-        "answer": "When a river erodes (downwards) again because it is re-energised (1)",
+        "question_description": "What is river rejuvenation? \n(1 x 1)  (1)",
+        "detailed_question": "What is river rejuvenation? \n(1 x 1)  (1)",
+        "answer": "When a river erodes (downwards) again because it is re-energised (1) \n[CONCEPT] \n(1 x 1) (1)",
         "related_images": []
     },
     "1.6.2": {
-        "detailed_question": "Which stage (course) of the river is illustrated in FIGURE 1.6?",
-        "answer": "Lower course/Old stage (1)",
+        "question_description": "Which stage (course) of the river is illustrated in FIGURE",
+        "detailed_question": "Which stage (course) of the river is illustrated in FIGURE",
+        "answer": "Lower course/Old stage (1) \n(1 x 1) (1)",
         "related_images": []
     },
     "1.6.3": {
-        "detailed_question": "Give evidence from FIGURE 1.6 to support your answer to",
-        "answer": "Wide floodplain (almost flat) (1)",
+        "question_description": "Give evidence from FIGURE",
+        "detailed_question": "Give evidence from FIGURE",
+        "answer": "Wide floodplain (almost flat) (1)  \nWide river valley (1) \nMeanders are visible (1) \nRiver enters the sea/river mouth (1) \nPresence of terraces (1) \nEvidence of lateral erosion (1) \nAt the sea/ocean (label) (1) \nEntrenched meanders (1) \nShading shows a deepening of the river channel (1) \n[ANY ONE] \n(1 x 1) (1)",
         "related_images": []
     },
     "1.6.4": {
-        "detailed_question": "Why is there an increase in the rate of erosion in the river after",
-        "answer": "Gradient is steeper (river flows down a slope) (2)",
+        "question_description": "Why is there an increase in the rate of erosion in the river after \nrejuvenation?         \n                                                       (2 x 2) \n \n(4)",
+        "detailed_question": "Why is there an increase in the rate of erosion in the river after \nrejuvenation?         \n                                                       (2 x 2) \n \n(4)",
+        "answer": "Gradient is steeper (river flows down a slope) (2) \nTurbulent flow (fast flowing river has more energy) after rejuvenation (2) \nIncrease in volume of water (2) \nResults in a higher velocity after rejuvenation (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "1.6.5": {
-        "detailed_question": "Identify the changes to the following features after river rejuvenation",
-        "answer": "(a) River channel has become deeper (2)",
+        "question_description": "Identify the changes to the following features after river rejuvenation \ntook place: \n \n \n \n \n \n  \n \n \n(a) \nRiver channel \n(1 x 2)  (2) \n \n \n \n \n  \n \n \n(b) \nMeander \n(1 x 2)  (2)",
+        "detailed_question": "Identify the changes to the following features after river rejuvenation \ntook place: \n \n \n \n \n \n  \n \n \n(a) \nRiver channel \n(1 x 2)  (2) \n \n \n \n \n  \n \n \n(b) \nMeander \n(1 x 2)  (2)",
+        "answer": "(a) River channel has become deeper (2) \n     River channel has become wider (2) \n     River channel has become straighter (fewer meanders/curves/bends) (2) \n     River channel has steeper sides (2) \n     [ANY ONE] \n(1 x 2) (2)  \n \n(b) Meander loop has moved further downstream (2) \n     Meander downstream has disappeared (2) \n     Meander neck has become narrower (length and width of meander \n     decreased) (2) \n     Meander is entrenched/incised/deepens (2) \n     [ANY ONE] \n(1 x 2) (2)",
         "related_images": []
     },
     "1.6.6": {
-        "detailed_question": "Discuss the possible negative impact of river rejuvenation on",
-        "answer": "Increases the amount of silt in the dam (2)",
+        "question_description": "Discuss the possible negative impact of river rejuvenation on \nstorage dams in the lower course after the point of rejuvenation \n(knickpoint). \n(2 x 2) \n \n(4) \n \n \n \n [75]",
+        "detailed_question": "Discuss the possible negative impact of river rejuvenation on \nstorage dams in the lower course after the point of rejuvenation \n(knickpoint). \n(2 x 2) \n \n(4) \n \n \n \n [75]",
+        "answer": "Increases the amount of silt in the dam (2) \nIncreased silt may damage the dam wall and cause it to collapse (2)  \nSilting negatively impacts on the biodiversity of dams (2) \nWater holding capacity of dam reduced (2) \nLess effective in controlling flood waters (2) \nThe increased volume and velocity of water may break the dam walls (2) \nIncreased in the cost of maintenance (2) \nWater quality decreases when sediments are deposited (2) \n[ANY TWO] \n(2 x 2) (4) \n \n \n \n \n[75]",
         "related_images": []
     },
     "2.1.1": {
+        "question_description": "to",
         "detailed_question": "Associated with rising air",
         "answer": "Low pressure cell (1)",
         "related_images": []
     },
     "2.1.2": {
+        "question_description": "Air diverges on the surface from this pressure cell",
         "detailed_question": "Air diverges on the surface from this pressure cell",
         "answer": "High pressure cell (1)",
         "related_images": []
     },
     "2.1.3": {
+        "question_description": "Associated with the clockwise movement of air",
         "detailed_question": "Associated with the clockwise movement of air",
         "answer": "Low pressure cell (1)",
         "related_images": []
     },
     "2.1.4": {
+        "question_description": "Unstable weather conditions over the interior",
         "detailed_question": "Unstable weather conditions over the interior",
         "answer": "Low pressure cell (1)",
         "related_images": []
     },
     "2.1.5": {
+        "question_description": "Associated with ridging",
         "detailed_question": "Associated with ridging",
         "answer": "High pressure cell (1)",
         "related_images": []
     },
     "2.1.6": {
+        "question_description": "Associated with heavy rain and hail",
         "detailed_question": "Associated with heavy rain and hail",
         "answer": "Low pressure cell (1)",
         "related_images": []
     },
     "2.1.7": {
+        "question_description": "Dominates the land in winter",
         "detailed_question": "Dominates the land in winter",
         "answer": "High pressure cell (1)",
         "related_images": []
     },
     "2.1.8": {
-        "detailed_question": "Berg wind conditions develop when it interacts with a coastal low",
-        "answer": "High pressure cel (1)",
+        "question_description": "Berg wind conditions develop when it interacts with a coastal low  \n \n(8 x 1) \n  \n(8)",
+        "detailed_question": "Berg wind conditions develop when it interacts with a coastal low  \n \n(8 x 1) \n  \n(8)",
+        "answer": "High pressure cel (1) \n(8 x 1) (8)",
         "related_images": []
     },
     "2.2.1": {
-        "detailed_question": "2.2.2",
+        "question_description": "to",
+        "detailed_question": "2.",
         "answer": "D (1)",
         "related_images": []
     },
     "2.2.3": {
-        "detailed_question": "2.2.4",
+        "question_description": "2.",
+        "detailed_question": "2.",
         "answer": "G (1)",
         "related_images": []
     },
     "2.2.5": {
-        "detailed_question": "2.2.6",
+        "question_description": "2.",
+        "detailed_question": "2.",
         "answer": "H (1)",
         "related_images": []
     },
     "2.2.7": {
-        "detailed_question": "Area drained by a river and its",
-        "answer": "C (1)",
+        "question_description": "Area drained by a river and its \ntributaries \n \nHigh-lying area that separates two \ndifferent drainage basins \n \nStarting point of a river  \n \nTerm that describes the main river \nand its tributaries \n \nPoint where the river enters the sea \n \nElevated land that separates \nstreams in the same drainage basin \n \nPoint along the river where two or \nmore streams meet \nA \n \nB \n \nC \n \nD \n \nE \n \nF \n \nG \n \nH \n \ncatchment area \n \ninterfluve \n \nconfluence \n \ndrainage basin \n \nriver system \n \nwatershed \n \nriver source \n \nriver mouth \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(7 x 1)  \n(7)",
+        "detailed_question": "Area drained by a river and its \ntributaries \n \nHigh-lying area that separates two \ndifferent drainage basins \n \nStarting point of a river  \n \nTerm that describes the main river \nand its tributaries \n \nPoint where the river enters the sea \n \nElevated land that separates \nstreams in the same drainage basin \n \nPoint along the river where two or \nmore streams meet \nA \n \nB \n \nC \n \nD \n \nE \n \nF \n \nG \n \nH \n \ncatchment area \n \ninterfluve \n \nconfluence \n \ndrainage basin \n \nriver system \n \nwatershed \n \nriver source \n \nriver mouth \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(7 x 1)  \n(7)",
+        "answer": "C (1) \n(7 x 1) (7)",
         "related_images": []
     },
     "2.3.1": {
-        "detailed_question": "Give evidence that this tropical cyclone is in the Southern",
-        "answer": "Air circulation around cyclone is clockwise (1)",
+        "question_description": "Give evidence that this tropical cyclone is in the Southern \nHemisphere. \n(1 x 1) \n  \n(1)",
+        "detailed_question": "Give evidence that this tropical cyclone is in the Southern \nHemisphere. \n(1 x 1) \n  \n(1)",
+        "answer": "Air circulation around cyclone is clockwise (1) \nDate (April is late summer in the southern hemisphere) (1) \nMozambique/Mozambique channel/Madagascar/Maputo/Tanzania/Zambia is \nin the southern hemisphere (1) \nIt develops over the southern Indian Ocean (1) \n[ANY ONE] \n(1 x 1) (1)",
         "related_images": []
     },
     "2.3.2": {
-        "detailed_question": "Why is the Mozambique Channel usually ideal for the increase in",
-        "answer": "The warm air temperatures above the sea/warm ocean (+26.5\u00b0C)",
+        "question_description": "Why is the Mozambique Channel usually ideal for the increase in \ntemperature within the tropical cyclone? \n(1 x 2) \n  \n(2)",
+        "detailed_question": "Why is the Mozambique Channel usually ideal for the increase in \ntemperature within the tropical cyclone? \n(1 x 2) \n  \n(2)",
+        "answer": "The warm air temperatures above the sea/warm ocean (+",
         "related_images": []
     },
     "2.3.3": {
-        "detailed_question": "Explain how the intensity of the tropical cyclone increased as it",
-        "answer": "Increased moisture which will lead to rapid condensation (2)",
+        "question_description": "Explain how the intensity of the tropical cyclone increased as it \nmoved from area A to area B. \n(2 x 2) \n  \n(4)",
+        "detailed_question": "Explain how the intensity of the tropical cyclone increased as it \nmoved from area A to area B. \n(2 x 2) \n  \n(4)",
+        "answer": "Increased moisture which will lead to rapid condensation (2) \nLatent heat being released from rapid condensation would provide the energy \nfor the system to move rapidly from A to B (2) \nWind intensity will change from gale force to hurricane strength because of \nthe wind shear (change in wind speed and direction) (2) \nDeveloped from a tropical depression into a tropical cyclone (2) \nEye has formed/intensified because of the decrease in air pressure (2) \nArea covered by the eye increased in size (2) \nRainstorms increase as the eye wall and leading/forward quadrant \napproaches (2) \nA is only a storm without an eye, B has an eye (2) \nPressure continues to drop as it moves towards B (intensified) (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "2.3.4": {
-        "detailed_question": "Discuss the conditions that could have caused the cyclone to",
-        "answer": "Source of moisture is reduced as it moves over the land (2)",
+        "question_description": "Discuss the conditions that could have caused the cyclone to \nweaken as it reached area C. \n(2 x 2) \n  \n(4)",
+        "detailed_question": "Discuss the conditions that could have caused the cyclone to \nweaken as it reached area C. \n(2 x 2) \n  \n(4)",
+        "answer": "Source of moisture is reduced as it moves over the land (2) \nFriction with the land surface would decrease the wind speed (2) \nMoves away from warmer waters/cold dry air enters the system (2) \n[ANY TWO]                                                                                       (2 x 2) (4)",
         "related_images": []
     },
     "2.3.5": {
-        "detailed_question": "Evaluate the physical (natural) negative impact of tropical cyclones",
-        "answer": "The coastline of Mozambique will be subjected to wind and water erosion",
+        "question_description": "Evaluate the physical (natural) negative impact of tropical cyclones \nalong the coastline of Mozambique. \n(2 x 2) \n  \n(4)",
+        "detailed_question": "Evaluate the physical (natural) negative impact of tropical cyclones \nalong the coastline of Mozambique. \n(2 x 2) \n  \n(4)",
+        "answer": "The coastline of Mozambique will be subjected to wind and water erosion \nwhich will reshape the coastline (2) \nMore coastal rocks will become exposed limiting human activities (2) \nStrong winds and torrential rain will destroy sand dunes which are essential \nfor ecosystems and biodiversity (destroys natural coastal vegetation) (2) \nBay areas along the coastline would become shallower as a result of excess \nsilting and restricts development (2) \nBlockage of waterways by sand deposits decreases access to coastlines (2) \nThe coastline will be steeper and become inaccessible to tourists (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "2.4.1": {
-        "detailed_question": "Define the concept urban heat island.",
-        "answer": "An area of high temperature over the city that decreases towards the rural",
+        "question_description": "Define the concept urban heat island. \n      (1 x 1)  \n(1)",
+        "detailed_question": "Define the concept urban heat island. \n      (1 x 1)  \n(1)",
+        "answer": "An area of high temperature over the city that decreases towards the rural \narea/phenomenon that makes urban areas hotter than their surroundings (1) \n[CONCEPT]  \n(1 x 1) (1)",
         "related_images": []
     },
     "2.4.2": {
-        "detailed_question": "Give TWO quotations from the extract that suggests that poor",
-        "answer": "'the global focus of city infrastructure planning has been on cars' (1)",
+        "question_description": "Give TWO quotations from the extract that suggests that poor \nplanning is responsible for increasing temperatures in cities. (2 x 1) \n \n \n(2)",
+        "detailed_question": "Give TWO quotations from the extract that suggests that poor \nplanning is responsible for increasing temperatures in cities. (2 x 1) \n \n \n(2)",
+        "answer": "'the global focus of city infrastructure planning has been on cars' (1)  \n'getting as many people as possible into tall buildings' (1) \n\u2018Heat comes from decades of poor planning\u2019 (1) \n\u2018office blocks overcrowding their occupants\u2019 (1) \n\u2018tarred roads criss-crossing\u2019 (1) \n\u2018big cement slabs\u2019 (1) \n[ANY TWO] \n(2 x 1) (2)",
         "related_images": []
     },
     "2.4.3": {
-        "detailed_question": "Why is the urban heat island effect more concentrated at night?",
-        "answer": "Subsiding air at night pushes the warm air closer to buildings in the city which",
+        "question_description": "Why is the urban heat island effect more concentrated at night? \n \n                                                                                                  (2 x 2) \n \n(4)",
+        "detailed_question": "Why is the urban heat island effect more concentrated at night? \n \n                                                                                                  (2 x 2) \n \n(4)",
+        "answer": "Subsiding air at night pushes the warm air closer to buildings in the city which \nresults in more heat being concentrated (in a smaller area) (2) \nWeaker convection currents at night concentrates the heat island effect (2) \nSubsiding air traps the heat between buildings (2) \n[ANY TWO]                                                                                        (2 x 2) (4)",
         "related_images": []
     },
     "2.4.4": {
-        "detailed_question": "In a paragraph of approximately EIGHT lines, provide sustainable",
-        "answer": "Plant more trees to absorb more carbon dioxide (2)",
+        "question_description": "In a paragraph of approximately EIGHT lines, provide sustainable \ngreen strategies, as referred to in the extract, that can reduce the \nheat island effect.  \n(4 x 2) \n \n \n \n(8)",
+        "detailed_question": "In a paragraph of approximately EIGHT lines, provide sustainable \ngreen strategies, as referred to in the extract, that can reduce the \nheat island effect.  \n(4 x 2) \n \n \n \n(8)",
+        "answer": "Plant more trees to absorb more carbon dioxide (2) \nEstablish roof gardens/vertical gardens on high rise buildings (2) \nCreate parks/greenbelts in the urban area (2) \nReduce carbon emissions in urban areas by making use of solar energy (2) \nReduce carbon emissions in urban areas by making use of wind energy (2) \nReplace concrete/tar surfaces with cobble stones which allow infiltration of \nwater and cooling through evaporation (2) \nPromote urban farming that will result in more evapotranspiration and cooling \nof temperatures (2) \nUse of public transport/cycling to reduce the number of vehicles on the roads \n(2) \nReduce the number or vehicles on the road (accept examples) (2) \nUse of reflective paint on buildings and roofs (2) \nReducing our carbon footprint through recycling and re-using of products (2) \nModernisation of buildings with greener materials (accept examples) (2) \nImplementing energy saving strategies (accept examples) (2) \nEncourage the use of hybrid cars which produce no pollution (2) \nUse of catalytic converters in motor vehicles (2) \nCreation of water features (accept examples) (2) \nGreen policy to be included in all legislation (2) \nAwareness/education campaigns on green policies (2) \nIncentives for going green/eco-friendly products (accept examples) \n[ANY FOUR \u2013 ACCEPT QUALIFIED EXAMPLES]  \n   (4 x 2) (8)",
         "related_images": []
     },
     "2.5.1": {
-        "detailed_question": "Define the concept river capture as shown in sketch B.",
-        "answer": "Process in which one river captures/robs the headwaters of another river (1)",
+        "question_description": "Define the concept river capture as shown in sketch B. \n      (1 x 1)  (1)",
+        "detailed_question": "Define the concept river capture as shown in sketch B. \n      (1 x 1)  (1)",
+        "answer": "Process in which one river captures/robs the headwaters of another river (1) \n[CONCEPT] \n(1 x 1) (1)",
         "related_images": []
     },
     "2.5.2": {
-        "detailed_question": "Identify features 1 and 2 of river capture in sketch B.",
-        "answer": "1 \u2013 elbow of capture (1)",
+        "question_description": "Identify features 1 and 2 of river capture in sketch B. \n(2 x 1)  (2)",
+        "detailed_question": "Identify features 1 and 2 of river capture in sketch B. \n(2 x 1)  (2)",
+        "answer": "1 \u2013 elbow of capture (1) \n2 \u2013 wind/dry gap (1) \n(2 x 1) (2)",
         "related_images": []
     },
     "2.5.3": {
-        "detailed_question": "What could have caused the captor stream to erode through the",
-        "answer": "Flowing over a steeper gradient (accept examples) (1)",
+        "question_description": "What could have caused the captor stream to erode through the \nwatershed? \n(2 x 1) \n \n(2)",
+        "detailed_question": "What could have caused the captor stream to erode through the \nwatershed? \n(2 x 1) \n \n(2)",
+        "answer": "Flowing over a steeper gradient (accept examples) (1) \nFlowing over softer rocks (1) \nIncrease in the volume of water (accept examples) (1) \nHeadward erosion (1) \n[ANY TWO] \n(2 x 1) (2)",
         "related_images": []
     },
     "2.5.4": {
-        "detailed_question": "Explain the process that resulted in the formation of the misfit",
-        "answer": "Headwaters of the misfit stream was cut off by the captor stream through the",
+        "question_description": "Explain the process that resulted in the formation of the misfit \nstream. \n(2 x 2) \n \n(4)",
+        "detailed_question": "Explain the process that resulted in the formation of the misfit \nstream. \n(2 x 2) \n \n(4)",
+        "answer": "Headwaters of the misfit stream was cut off by the captor stream through the \nprocess of headward erosion (2) \nIt continued to flow (after the wind/dry gap) with a reduced supply of water (2) \n \n(2 x 2) (4)",
         "related_images": []
     },
     "2.5.5": {
-        "detailed_question": "Describe the change in the flow characteristics of the captor stream.",
-        "answer": "Volume of water in the river will increase (2)",
+        "question_description": "Describe the change in the flow characteristics of the captor stream.  \n                                                                                                  (3 x 2) \n \n(6)",
+        "detailed_question": "Describe the change in the flow characteristics of the captor stream.  \n                                                                                                  (3 x 2) \n \n(6)",
+        "answer": "Volume of water in the river will increase (2) \nVelocity (speed) of the river increases (2) \nIncreases the erosive power of the river (2) \nAbility to transport a bigger load (2) \nRate of deposition is lowered (2) \nPossibility of flooding increases (2) \nRiver discharge is turbulent (2) \n[ANY THREE] \n(3 x 2) (6)",
         "related_images": []
     },
     "2.6.1": {
-        "detailed_question": "Is the river profile in FIGURE 2.6 graded or ungraded?",
-        "answer": "Ungraded (1)",
+        "question_description": "Is the river profile in FIGURE",
+        "detailed_question": "Is the river profile in FIGURE",
+        "answer": "Ungraded (1) \n(1 x 1) (1)",
         "related_images": []
     },
     "2.6.2": {
-        "detailed_question": "Give evidence for your answer to QUESTION 2.6.1.",
-        "answer": "It has an uneven profile (2)",
+        "question_description": "Give evidence for your answer to QUESTION",
+        "detailed_question": "Give evidence for your answer to QUESTION",
+        "answer": "It has an uneven profile (2) \nPresence of temporary base level of erosion/knickpoint/waterfall (plunge pool) \n(2) \nPresence of resistant (hard) rock (2) \nMulti concave profile (2) \n[ANY ONE]  \n(1 x 2) (2)",
         "related_images": []
     },
     "2.6.3": {
-        "detailed_question": "Why will there be more erosion than deposition at A?",
-        "answer": "Riverbed is uneven and causes turbulent flow, which encourages erosion (2)",
+        "question_description": "Why will there be more erosion than deposition at A?  \n(2 x 2)  (4)",
+        "detailed_question": "Why will there be more erosion than deposition at A?  \n(2 x 2)  (4)",
+        "answer": "Riverbed is uneven and causes turbulent flow, which encourages erosion (2) \nThe steeper gradient will result in an increase in erosion (2) \nIt has obstacles (knickpoint/waterfall/temporary base levels) along the river \nthat causes erosion (2) \nThe falling water is causing undercutting at the base of the waterfall (accept \nexamples of erosional processes that occur at the base of the waterfall \n(plunge pool) ) (2) \nThe softer rock at the base of the waterfall erodes faster (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "2.6.4": {
-        "detailed_question": "In a paragraph of approximately EIGHT lines, explain the fluvial",
-        "answer": "Downward/Vertical erosion dominates in the upper course causing a steep",
+        "question_description": "In a paragraph of approximately EIGHT lines, explain the fluvial \nprocesses that a river undergoes to reach a graded profile.    (4 x 2) \n  \n(8) \n \n \n \n [75]",
+        "detailed_question": "In a paragraph of approximately EIGHT lines, explain the fluvial \nprocesses that a river undergoes to reach a graded profile.    (4 x 2) \n  \n(8) \n \n \n \n [75]",
+        "answer": "Downward/Vertical erosion dominates in the upper course causing a steep \nvalley slope (2) \nHeadward erosion removes temporary base levels of erosion in the upper \ncourse (2) \nDownward/Vertical erosion removes temporary base levels (waterfall) in the \nupper course (2) \nThis material is then transported downstream (2) \nDischarge of the river increases in middle course causing lateral erosion (2) \nGradient in the middle course becomes less steep (2) \nDeposition dominates in the lower course because the gradient is gentle (2) \nDeposited materials fill up lakes and dams (2) \nThe river profile will now develop a concave shape from upper to lower \ncourse (2) \nEquilibrium between erosion and deposition will maintain (result in) a graded \nprofile (2) \n[ANY FOUR] \n(4 x 2) (8) \n \n \n \n[75]",
         "related_images": []
     },
     "3.1.1": {
-        "detailed_question": "The model which shows land use arranged in wedges is known as",
+        "question_description": "to",
+        "detailed_question": "The model which shows land use arranged in wedges is known as \nthe (multiple nuclei/sector) model.",
         "answer": "Sector (1)",
         "related_images": []
     },
     "3.1.2": {
-        "detailed_question": "In the (multiple nuclei/concentric zone) model the CBD is the focal",
+        "question_description": "In the (multiple nuclei/concentric zone) model the CBD is the focal \npoint around which the urban area develops.",
+        "detailed_question": "In the (multiple nuclei/concentric zone) model the CBD is the focal \npoint around which the urban area develops.",
         "answer": "Concentric zone (1)",
         "related_images": []
     },
     "3.1.3": {
-        "detailed_question": "Industries and low-cost housing develop along main roads or",
+        "question_description": "Industries and low-cost housing develop along main roads or \nrailways in the (concentric zone/sector) model.",
+        "detailed_question": "Industries and low-cost housing develop along main roads or \nrailways in the (concentric zone/sector) model.",
         "answer": "Sector (1)",
         "related_images": []
     },
     "3.1.4": {
-        "detailed_question": "The (sector/multiple nuclei) model is most applicable to modern",
+        "question_description": "The (sector/multiple nuclei) model is most applicable to modern \ncities.",
+        "detailed_question": "The (sector/multiple nuclei) model is most applicable to modern \ncities.",
         "answer": "Multiple nuclei (1)",
         "related_images": []
     },
     "3.1.5": {
-        "detailed_question": "The (sector/concentric zone) model does not consider development",
+        "question_description": "The (sector/concentric zone) model does not consider development \nalong transport routes.",
+        "detailed_question": "The (sector/concentric zone) model does not consider development \nalong transport routes.",
         "answer": "Concentric zone (1)",
         "related_images": []
     },
     "3.1.6": {
-        "detailed_question": "Cities that have several focal points around which urban",
+        "question_description": "Cities that have several focal points around which urban \ndevelopment occurs are examples of the (concentric zone/multiple \nnuclei) model.",
+        "detailed_question": "Cities that have several focal points around which urban \ndevelopment occurs are examples of the (concentric zone/multiple \nnuclei) model.",
         "answer": "Multiple nuclei (1)",
         "related_images": []
     },
     "3.1.7": {
-        "detailed_question": "The (sector/multiple nuclei) model displays characteristics of the",
-        "answer": "Sector (1)",
+        "question_description": "The (sector/multiple nuclei) model displays characteristics of the \nconcentric zone model. \n(7 x 1) \n \n(7)",
+        "detailed_question": "The (sector/multiple nuclei) model displays characteristics of the \nconcentric zone model. \n(7 x 1) \n \n(7)",
+        "answer": "Sector (1) \n(7 x 1) (7)",
         "related_images": []
     },
     "3.2.1": {
-        "detailed_question": "The economic sector associated with the provision of transport is",
+        "question_description": "to",
+        "detailed_question": "The economic sector associated with the provision of transport is \nreferred to as the \u2026 sector. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nprimary \nsecondary \ntertiary \nquaternary",
         "answer": "C (1)",
         "related_images": []
     },
     "3.2.2": {
-        "detailed_question": "The total value of all goods and services produced in one year",
+        "question_description": "The total value of all goods and services produced in one year \nwithin a country is called the \u2026 \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nper capita income. \ngross domestic product. \ngross national product. \ngross domestic income.",
+        "detailed_question": "The total value of all goods and services produced in one year \nwithin a country is called the \u2026 \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nper capita income. \ngross domestic product. \ngross national product. \ngross domestic income.",
         "answer": "B (1)",
         "related_images": []
     },
     "3.2.3": {
-        "detailed_question": "An example of an economic activity concerned with the extraction of",
+        "question_description": "An example of an economic activity concerned with the extraction of \nraw material is ... \n  \n \n \n \n  \n \n \nA \nB \nC \nD \ntransport. \nconstruction. \nmining. \nresearch.",
+        "detailed_question": "An example of an economic activity concerned with the extraction of \nraw material is ... \n  \n \n \n \n  \n \n \nA \nB \nC \nD \ntransport. \nconstruction. \nmining. \nresearch.",
         "answer": "C (1)",
         "related_images": []
     },
     "3.2.4": {
-        "detailed_question": "An exchange of goods and services between countries is referred",
+        "question_description": "An exchange of goods and services between countries is referred  \nto as \u2026 \n  \n \n \n \n  \n \n \nA \nB \nC \nD \ninternational trade. \ndomestic trade. \nforeign exchange. \ntrade balance.",
+        "detailed_question": "An exchange of goods and services between countries is referred  \nto as \u2026 \n  \n \n \n \n  \n \n \nA \nB \nC \nD \ninternational trade. \ndomestic trade. \nforeign exchange. \ntrade balance.",
         "answer": "A (1)",
         "related_images": []
     },
     "3.2.5": {
-        "detailed_question": "\u2026 refers to goods that are brought into the country.",
+        "question_description": "\u2026 refers to goods that are brought into the country. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nExports \nImports \nMarket \nTrade",
+        "detailed_question": "\u2026 refers to goods that are brought into the country. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nExports \nImports \nMarket \nTrade",
         "answer": "B (1)",
         "related_images": []
     },
     "3.2.6": {
-        "detailed_question": "The domestic market is also known as the \u2026 market.",
+        "question_description": "The domestic market is also known as the \u2026 market. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nregional \nforeign   \nprovincial  \nhome",
+        "detailed_question": "The domestic market is also known as the \u2026 market. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nregional \nforeign   \nprovincial  \nhome",
         "answer": "D (1)",
         "related_images": []
     },
     "3.2.7": {
-        "detailed_question": "Income generated by a country through exports refers to \u2026",
+        "question_description": "Income generated by a country through exports refers to \u2026 \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nper capita income. \nforeign exchange. \nexport-orientated industries. \nexport market.",
+        "detailed_question": "Income generated by a country through exports refers to \u2026 \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nper capita income. \nforeign exchange. \nexport-orientated industries. \nexport market.",
         "answer": "B (1)",
         "related_images": []
     },
     "3.2.8": {
-        "detailed_question": "An example of a quaternary economic activity is \u2026",
-        "answer": "D (1)",
+        "question_description": "An example of a quaternary economic activity is \u2026 \n \n \n \n \n \n \n \n \n \nA \nB \nC \nD \nfishing. \nship building. \nservice provision. \nresearch. \n(8 x 1) \n \n \n \n \n(8)",
+        "detailed_question": "An example of a quaternary economic activity is \u2026 \n \n \n \n \n \n \n \n \n \nA \nB \nC \nD \nfishing. \nship building. \nservice provision. \nresearch. \n(8 x 1) \n \n \n \n \n(8)",
+        "answer": "D (1) \n(8 x 1) (8)",
         "related_images": []
     },
     "3.3.1": {
-        "detailed_question": "Define the concept rural depopulation.",
-        "answer": "Decrease in population numbers in rural areas (1)",
+        "question_description": "Define the concept rural depopulation. \n(1 x 1)  (1)",
+        "detailed_question": "Define the concept rural depopulation. \n(1 x 1)  (1)",
+        "answer": "Decrease in population numbers in rural areas (1)  \n[CONCEPT] \n(1 x 1) (1)",
         "related_images": []
     },
     "3.3.2": {
-        "detailed_question": "Determine the number of people living in the rural areas of",
-        "answer": "21-23 million (1)",
+        "question_description": "Determine the number of people living in the rural areas of  \nSouth Africa in 2004.  \n(1 x 1) \n  \n(1)",
+        "detailed_question": "Determine the number of people living in the rural areas of  \nSouth Africa in 2004.  \n(1 x 1) \n  \n(1)",
+        "answer": "21-23 million (1) \n(1 x 1) (1)",
         "related_images": []
     },
     "3.3.3": {
-        "detailed_question": "Is the rural population showing an increase or a decrease from 2004",
-        "answer": "Decrease (in population numbers) (1)",
+        "question_description": "Is the rural population showing an increase or a decrease from 2004 \nto 2020? \n(1 x 1) \n  \n(1)",
+        "detailed_question": "Is the rural population showing an increase or a decrease from 2004 \nto 2020? \n(1 x 1) \n  \n(1)",
+        "answer": "Decrease (in population numbers) (1) \n(1 x 1) (1)",
         "related_images": []
     },
     "3.3.4": {
-        "detailed_question": "How will this trend (the answer to QUESTION 3.3.3) have a negative",
-        "answer": "Less people paying for municipal services (market) resulting in less municipal",
+        "question_description": "How will this trend (the answer to QUESTION",
+        "detailed_question": "How will this trend (the answer to QUESTION",
+        "answer": "Less people paying for municipal services (market) resulting in less municipal \nservices available (2)  \nDecrease in customers/buying power as people leave the rural areas (2) \nResults in businesses closing and an increase in unemployment (2) \nClosing of basic services (accept examples) (2) \nBrain drain as skilled people leave the area (2) \nLess investment as the area becomes a ghost town (2) \nDecrease in production as there are more old people and fewer labourers (2) \nIncreasing crime brings stress to the people living in the settlement/ increase \nin crime/ social ills on the (vulnerable) population left in rural areas (2) \nProperty values decrease (2) \nPoverty increases (2) \nLocal economy stagnates results in less employment (2) \nIncrease in child headed families (2) \nHigher dependency on social services (2) \nTravel further to serviced towns (2) \n [ANY TWO]  \n(2 x 2) (4)",
         "related_images": []
     },
     "3.3.5": {
-        "detailed_question": "Explain TWO social factors that contributed to rural depopulation in",
-        "answer": "Unemployment due to businesses closing down (2)",
+        "question_description": "Explain TWO social factors that contributed to rural depopulation in \nSouth Africa. \n(2 x 2) \n  \n(4)",
+        "detailed_question": "Explain TWO social factors that contributed to rural depopulation in \nSouth Africa. \n(2 x 2) \n  \n(4)",
+        "answer": "Unemployment due to businesses closing down (2) \nMechanisation requires less manual labour and leads to unemployment (2) \nIncrease in crime due to lack of policing (2) \nLack of recreational/cultural/entertainment facilities due to lack of investment \n(2) \nIncrease in poverty due to unemployment/low salaries (2) \nPoor basic services (accept examples) due to less people/investment (2) \nTravel long distances to access tertiary education (2) \nLow salaries cause people to move to urban areas to seek better paying jobs \n(2) \nFarm killings creates fear and forces farmers to move to urban areas (2) \nThe slow pace of finalising the land reform is frustrating and forces people to \nmove (2) \nLack of professional services in the rural areas causes people to seek those \nservices elsewhere (2) \nPull factors (from an uban perspective): \nAccessibility to better and efficient services in urban areas (accept explained \nexamples) (2) \nGreater variety of recreational activities attracts young adults (2) \nHigher standard of living/higher wages in urban areas due to dominant \nsecondary and tertiary activities (2) \nGreater job opportunities in urban areas due to high concentration of \neconomic activities (2) \n[ANY TWO - must qualify statement]                                            (2 x 2) (4)",
         "related_images": []
     },
     "3.3.6": {
-        "detailed_question": "Suggest TWO sustainable strategies to encourage people to return",
-        "answer": "Acceleration of land reform to enable the poor and landless to obtain land for",
+        "question_description": "Suggest TWO sustainable strategies to encourage people to return \nto rural areas. \n(2 x 2) \n  \n(4)",
+        "detailed_question": "Suggest TWO sustainable strategies to encourage people to return \nto rural areas. \n(2 x 2) \n  \n(4)",
+        "answer": "Acceleration of land reform to enable the poor and landless to obtain land for \nfarming (2) \nCreate job opportunities through the decentralisation of industries from urban \nareas (2) \nImprove work conditions and salaries (2) \nChange ownership of land from communal to private land ownership (2) \nEmployment will increase local market's buying power resulting in further \nbusinesses opening up (2) \nCreating tourism opportunities that would lead to more revenue/business \nopportunities for rural community (2) \nImproving services in rural areas (accept examples) (2)  \nTax rebates and other incentives to attract industries to re-locate to the rural \narea (2) \nMaking cheaper industrial sites available (2) \nIncentives (accept examples) for professional people coming to work in rural \nareas (2)  \nImproving infrastructure such as roads for people to easily access services (2) \nHosting festivals in the rural areas to create income (2) \nPromote rural areas as peaceful with aesthetic beauty (2) \n  \nExamples of eco-tourism, eco-estates (2) \nDevelopment of retirement villages (2) \nIntroduce measures (accept examples) to reduce crime (2) \n [ANY TWO]  \n(2 x 2) (4)",
         "related_images": []
     },
     "3.4.1": {
-        "detailed_question": "Identify the urban issue shown in the cartoon.",
-        "answer": "Traffic congestion (1)",
+        "question_description": "Identify the urban issue shown in the cartoon. \n(1 x 1)  (1)",
+        "detailed_question": "Identify the urban issue shown in the cartoon. \n(1 x 1)  (1)",
+        "answer": "Traffic congestion (1) \n \n(1 x 1) (1)",
         "related_images": []
     },
     "3.4.2": {
-        "detailed_question": "Give a reason for your answer to QUESTION 3.4.1.",
-        "answer": "Traffic is gridlocked/Traffic jam/Many cars (2)",
+        "question_description": "Give a reason for your answer to QUESTION",
+        "detailed_question": "Give a reason for your answer to QUESTION",
+        "answer": "Traffic is gridlocked/Traffic jam/Many cars (2) \n                          \n                                                                     (1 x 2) (2)",
         "related_images": []
     },
     "3.4.3": {
+        "question_description": "Why is the urban issue in the cartoon common in most cities? (2 x 2)  (4)",
         "detailed_question": "Why is the urban issue in the cartoon common in most cities? (2 x 2)  (4)",
-        "answer": "High influx of people with cars that enter cities (2)",
+        "answer": "High influx of people with cars that enter cities (2) \nPeople living far from their working areas and as such are commuting daily (2) \nInefficient public transport system that cannot cope with commuter needs (2) \nMore vehicles on the road due to use of private motor vehicles (2) \nInsufficient roads/lanes to cater for the additional vehicles on the road (2) \nExpensive parking fees and shortage of parking space forces people to park \non streets and as such blocks traffic (2) \nGrid iron street patterns in older parts of the city that lead to the build-up of \ntraffic because there are too many stops (2) \nNarrow streets that do not allow for the smooth flow of traffic (2) \nAn influx of mini bus taxis that hold up traffic while picking up and off- loading \npassengers (2) \nIntersections/unsynchronised robots create traffic congestion (2) \nPoor road quality (potholes) can slow down traffic (2) \nPoor maintenance of the roads (accept examples) (2) \nLoad shedding resulting in traffic lights not working resulting in traffic \ncongestion (2) \nLarge concentration of economic activities in cities (2) \nPeople go to work at the same time and also come from work the same time \n(2) \nService delivery protests (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "3.4.4": {
-        "detailed_question": "In a paragraph of approximately EIGHT lines, discuss the negative",
-        "answer": "Daily road users experience increase in general stress levels (2)",
+        "question_description": "In a paragraph of approximately EIGHT lines, discuss the negative \nimpact of this urban issue on motorists. \n(4 x 2) \n  \n(8)",
+        "detailed_question": "In a paragraph of approximately EIGHT lines, discuss the negative \nimpact of this urban issue on motorists. \n(4 x 2) \n  \n(8)",
+        "answer": "Daily road users experience increase in general stress levels (2) \nRoad rage becomes a daily occurrence (2) \nThere will be higher rate of accidents (2) \nEmployees arrive late at work (2) \nPoor employer/employee relations associated with late arrival at work (2) \nPeople can face disciplinary charges and even lose their jobs for being late \n(2) \nForced cancellation of some meetings (2) \nLoss of productivity as hours lost due to traffic congestion (2) \nStop and start increase petrol consumption which is costly for motorists (2) \nIncreased maintenance costs for cars of motorists (2) \nMotorists can be easy target of crime/hijacking/smash and grab (2) \nDelay in the delivery of goods/services (2) \nRespiratory diseases due to pollution from exhausts (2) \n[ANY FOUR] \n(4 x 2) (8)",
         "related_images": []
     },
     "3.5.1": {
-        "detailed_question": "Identify ONE problem from the extract that poses a challenge to",
-        "answer": "(Ongoing) drought (1)",
+        "question_description": "Identify ONE problem from the extract that poses a challenge to \ncattle farmers. \n(1 x 1) \n  \n(1)",
+        "detailed_question": "Identify ONE problem from the extract that poses a challenge to \ncattle farmers. \n(1 x 1) \n  \n(1)",
+        "answer": "(Ongoing) drought (1)  \nFoot and mouth disease outbreak (1)  \nChanging climate (1) \nChoosing the correct breed (1)  \nWalking long distances to find grazing (1) \n[ANY ONE] \n(1 x 1) (1)",
         "related_images": []
     },
     "3.5.2": {
-        "detailed_question": "Why, according to the extract, is the Bonsmara breed ideal for cattle",
-        "answer": "They can adapt to the changing climate/reduced rainfall and warmer",
+        "question_description": "Why, according to the extract, is the Bonsmara breed ideal for cattle \nfarming? \n(2 x 1) \n  \n(2)",
+        "detailed_question": "Why, according to the extract, is the Bonsmara breed ideal for cattle \nfarming? \n(2 x 1) \n  \n(2)",
+        "answer": "They can adapt to the changing climate/reduced rainfall and warmer \ntemperatures (1) \nThey can walk long distances to find grazing (1) \nAdapts well in extensive and intensive agricultural environments (1) \nWith its adaptability and high functional efficiency (1) \n[ANY TWO] \n(2 x 1) (2)",
         "related_images": []
     },
     "3.5.3": {
-        "detailed_question": "Suggest TWO ways in which the government can assist small-scale",
-        "answer": "Provide government subsidies and grants (2)",
+        "question_description": "Suggest TWO ways in which the government can assist small-scale \ncattle farmers to increase beef production. \n(2 x 2) \n  \n(4)",
+        "detailed_question": "Suggest TWO ways in which the government can assist small-scale \ncattle farmers to increase beef production. \n(2 x 2) \n  \n(4)",
+        "answer": "Provide government subsidies and grants (2) \nIncrease education and skills of farmers (2) \nProvide access to funding from banks (2) \nGovernment to intensify support by allocation of agricultural/veterinary services (2) \nLand reform programmes where land is allocated to more farmers (2) \nCreate easier access to services and facilities (for example abattoirs) required \nfor cattle farming (2) \nMore research to improve production (2) \nDevelopment of infrastructure for small scale farmers (2) \nRegulation and subsidy of market prices (2) \n [ANY TWO]                                                                                    (2 x 2) (4)",
         "related_images": []
     },
     "3.5.4": {
-        "detailed_question": "In a paragraph of approximately EIGHT lines, discuss how an",
-        "answer": "Beef will become more affordable/cheaper prices (due to greater supply) (2)",
+        "question_description": "In a paragraph of approximately EIGHT lines, discuss how an \nincrease in beef production can contribute to food security in  \nSouth Africa. \n(4 x 2) \n  \n \n(8)",
+        "detailed_question": "In a paragraph of approximately EIGHT lines, discuss how an \nincrease in beef production can contribute to food security in  \nSouth Africa. \n(4 x 2) \n  \n \n(8)",
+        "answer": "Beef will become more affordable/cheaper prices (due to greater supply) (2) \nBeef will be more accessible to all people (due to increased production) (2) \nBeef will provide protein which is nutritious to the diets of many people (2) \nCreates more job opportunities as more meat is available for processing \nresulting in income to buy nutritious food (2) \nMore meat will be available on the local market (due to increased production) \n(2)  \nA variety of other products associated with beef can be produced (2) \nDecrease in the need to import expensive beef (2) \nMore exports result in more local production creating job opportunities (2) \n[ANY FOUR] \n(4 x 2) (8)",
         "related_images": []
     },
     "3.6.1": {
-        "detailed_question": "Which of the urban settlements in the PWV (Gauteng) Industrial",
-        "answer": "Johannesburg (1)",
+        "question_description": "Which of the urban settlements in the PWV (Gauteng) Industrial \nRegion shown in FIGURE",
+        "detailed_question": "Which of the urban settlements in the PWV (Gauteng) Industrial \nRegion shown in FIGURE",
+        "answer": "Johannesburg (1) \n(1 x 1) (1)",
         "related_images": []
     },
     "3.6.2": {
-        "detailed_question": "Quote TWO statistics from FIGURE 3.6, which indicates that the",
-        "answer": "33.8% of the national GDP in current prices (1)",
+        "question_description": "Quote TWO statistics from FIGURE",
+        "detailed_question": "Quote TWO statistics from FIGURE",
+        "answer": "3",
         "related_images": []
     },
     "3.6.3": {
-        "detailed_question": "Discuss TWO factors that have favoured the development of",
-        "answer": "Abundant raw materials from towns found near industries (2)",
+        "question_description": "Discuss TWO factors that have favoured the development of \nindustries in the PWV (Gauteng) Industrial Region.     \n      (2 x 2) \n \n \n(4)",
+        "detailed_question": "Discuss TWO factors that have favoured the development of \nindustries in the PWV (Gauteng) Industrial Region.     \n      (2 x 2) \n \n \n(4)",
+        "answer": "Abundant raw materials from towns found near industries (2) \nAvailability of cheaper energy supply mined in local area and transmitted over \nshort distances by ESKOM (2) \nAvailability of water and strategic water transfer schemes (2) \nWell established transport infrastructure in the form of road, rail and air to \naccess raw materials and markets (2) \nAvailable flat land facilitates easy construction of infrastructure (2) \nPretoria as an administrative capital marketed the region for industrial \ndevelopment (2) \nAvailability of skilled/unskilled labour from high population (2) \nLarge population serving as a base for buying power/market (2) \nMany institutions for skills development and research (2)  \nRailway linked to Maputo harbour for exports (2) \n[ANY TWO]  \n(2 x 2) (4)",
         "related_images": []
     },
     "3.6.4": {
-        "detailed_question": "The PWV (Gauteng) Industrial Region faces many challenges,",
-        "answer": "(a) This region generally does not receive enough rainfall during the year (2)",
+        "question_description": "The PWV (Gauteng) Industrial Region faces many challenges, \nincluding high levels of unemployment and water shortages. \n \n \n \n \n \n \n \n \n \n(a) \n \nWhy has water supply hindered the development of the PWV \n(Gauteng) Industrial Region? \n(1 x 2) \n \n \n(2) \n \n \n \n \n \n \n \n \n(b) \nHow did the PWV (Gauteng) Industrial Region overcome the \nshortage of water supply for industries? \n(1 x 2) \n \n \n(2) \n \n \n \n \n \n \n \n \n(c) \nWhy does the PWV (Gauteng) Industrial Region face \nchallenges of unemployment despite the high concentration of \nindustries in this industrial region? \n                   (2 x 2) \n \n \n \n(4) \n \n \n \n \n[75]",
+        "detailed_question": "The PWV (Gauteng) Industrial Region faces many challenges, \nincluding high levels of unemployment and water shortages. \n \n \n \n \n \n \n \n \n \n(a) \n \nWhy has water supply hindered the development of the PWV \n(Gauteng) Industrial Region? \n(1 x 2) \n \n \n(2) \n \n \n \n \n \n \n \n \n(b) \nHow did the PWV (Gauteng) Industrial Region overcome the \nshortage of water supply for industries? \n(1 x 2) \n \n \n(2) \n \n \n \n \n \n \n \n \n(c) \nWhy does the PWV (Gauteng) Industrial Region face \nchallenges of unemployment despite the high concentration of \nindustries in this industrial region? \n                   (2 x 2) \n \n \n \n(4) \n \n \n \n \n[75]",
+        "answer": "(a) This region generally does not receive enough rainfall during the year (2) \n      High evaporation rates reduces the water supply (2) \n      There is high competing demand for water from different sectors of the  \n      economy (2) \n      High concentration of people in the region increases the demand of water      \n      for domestic use (2) \n      Poor management (accept examples) of existing water resources reduces \n      the supply even further (2) \n      Water transfer schemes are costly (2)    \n[ANY ONE] \n(1 x 2) (2)",
         "related_images": []
     },
     "4.1.1": {
-        "detailed_question": "A (dispersed/nucleated) settlement pattern is associated with large",
+        "question_description": "to",
+        "detailed_question": "A (dispersed/nucleated) settlement pattern is associated with large \nmachinery.",
         "answer": "Dispersed (1)",
         "related_images": []
     },
     "4.1.2": {
-        "detailed_question": "The settlement pattern that encourages more community activities is",
+        "question_description": "The settlement pattern that encourages more community activities is \n(nucleated/dispersed).",
+        "detailed_question": "The settlement pattern that encourages more community activities is \n(nucleated/dispersed).",
         "answer": "Nucleated (1)",
         "related_images": []
     },
     "4.1.3": {
-        "detailed_question": "The lack of safety and an increased vulnerability to crime is more",
+        "question_description": "The lack of safety and an increased vulnerability to crime is more \npredominant in (nucleated/dispersed) settlement patterns.",
+        "detailed_question": "The lack of safety and an increased vulnerability to crime is more \npredominant in (nucleated/dispersed) settlement patterns.",
         "answer": "Dispersed (1)",
         "related_images": []
     },
     "4.1.4": {
-        "detailed_question": "(Nucleated/Dispersed) settlement patterns are commonly associated",
+        "question_description": "(Nucleated/Dispersed) settlement patterns are commonly associated \nwith privately owned land.",
+        "detailed_question": "(Nucleated/Dispersed) settlement patterns are commonly associated \nwith privately owned land.",
         "answer": "Dispersed (1)",
         "related_images": []
     },
     "4.1.5": {
-        "detailed_question": "The settlement that develops at the intersection of transport routes",
+        "question_description": "The settlement that develops at the intersection of transport routes \nhas as a (linear/crossroads) shape.",
+        "detailed_question": "The settlement that develops at the intersection of transport routes \nhas as a (linear/crossroads) shape.",
         "answer": "Crossroads (1)",
         "related_images": []
     },
     "4.1.6": {
+        "question_description": "(Circular/Linear) shaped settlements develop around a focal point.",
         "detailed_question": "(Circular/Linear) shaped settlements develop around a focal point.",
         "answer": "Circular (1)",
         "related_images": []
     },
     "4.1.7": {
+        "question_description": "A (circular/linear) shaped settlement forms along transport routes.",
         "detailed_question": "A (circular/linear) shaped settlement forms along transport routes.",
         "answer": "Linear (1)",
         "related_images": []
     },
     "4.1.8": {
-        "detailed_question": "The settlement shape responsible for the greatest accessibility is a",
-        "answer": "Crossroads (1)",
+        "question_description": "The settlement shape responsible for the greatest accessibility is a \n(linear/crossroads) settlement.   \n   (8 x 1) \n \n \n(8)",
+        "detailed_question": "The settlement shape responsible for the greatest accessibility is a \n(linear/crossroads) settlement.   \n   (8 x 1) \n \n \n(8)",
+        "answer": "Crossroads (1) \n \n(8 x 1) (8)",
         "related_images": []
     },
     "4.2.1": {
-        "detailed_question": "... is the staple food of many people in South Africa.",
+        "question_description": "to",
+        "detailed_question": "... is the staple food of many people in South Africa. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nFruit \nMaize \nWheat \nBeef",
         "answer": "B (1)",
         "related_images": []
     },
     "4.2.2": {
-        "detailed_question": "Agricultural activities are associated with the ... economic sector.",
+        "question_description": "Agricultural activities are associated with the ... economic sector. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nquaternary \nsecondary \ntertiary \nprimary",
+        "detailed_question": "Agricultural activities are associated with the ... economic sector. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nquaternary \nsecondary \ntertiary \nprimary",
         "answer": "D (1)",
         "related_images": []
     },
     "4.2.3": {
-        "detailed_question": "\u2026 is when people in a country have access to enough nutritious",
+        "question_description": "\u2026 is when people in a country have access to enough nutritious \nfood. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nFood insecurity \nMalnutrition \nFamine \nFood security",
+        "detailed_question": "\u2026 is when people in a country have access to enough nutritious \nfood. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nFood insecurity \nMalnutrition \nFamine \nFood security",
         "answer": "D (1)",
         "related_images": []
     },
     "4.2.4": {
-        "detailed_question": "An advantage of genetically modified (GM) crops is that they ...",
+        "question_description": "An advantage of genetically modified (GM) crops is that they ... \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nhave less nutritional value. \nproduce more food per hectare. \nhave a shorter storage life. \nare less expensive.",
+        "detailed_question": "An advantage of genetically modified (GM) crops is that they ... \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nhave less nutritional value. \nproduce more food per hectare. \nhave a shorter storage life. \nare less expensive.",
         "answer": "B  (1)",
         "related_images": []
     },
     "4.2.5": {
-        "detailed_question": "Monoculture is a characteristic of ... farming.",
+        "question_description": "Monoculture is a characteristic of ... farming. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nsmall-scale  \ntraditional  \nlarge-scale  \nsubsistence",
+        "detailed_question": "Monoculture is a characteristic of ... farming. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nsmall-scale  \ntraditional  \nlarge-scale  \nsubsistence",
         "answer": "C (1)",
         "related_images": []
     },
     "4.2.6": {
-        "detailed_question": "Sugar cane farming is mainly practised in ...",
+        "question_description": "Sugar cane farming is mainly practised in ... \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nthe Eastern Cape. \nthe Western Cape. \nKwaZulu-Natal. \nNorth West.",
+        "detailed_question": "Sugar cane farming is mainly practised in ... \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nthe Eastern Cape. \nthe Western Cape. \nKwaZulu-Natal. \nNorth West.",
         "answer": "C (1)",
         "related_images": []
     },
     "4.2.7": {
-        "detailed_question": "... are factors that favour agricultural production in South Africa.",
-        "answer": "B (1)",
+        "question_description": "... are factors that favour agricultural production in South Africa. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nFloods and climate change \nResearch and climatic differences  \nCrime and labour strikes \nFluctuating prices and subsistence farming \n(7 x 1) \n  \n \n \n(7)",
+        "detailed_question": "... are factors that favour agricultural production in South Africa. \n  \n \n \n \n  \n \n \nA \nB \nC \nD \nFloods and climate change \nResearch and climatic differences  \nCrime and labour strikes \nFluctuating prices and subsistence farming \n(7 x 1) \n  \n \n \n(7)",
+        "answer": "B (1)  \n \n(7 x 1) (7)",
         "related_images": []
     },
     "4.3.1": {
-        "detailed_question": "Define the concept urban sprawl.",
-        "answer": "The uncontrolled/unplanned/formless expansion of an urban area (1)",
+        "question_description": "Define the concept urban sprawl. \n(1 x 1)  \n(1)",
+        "detailed_question": "Define the concept urban sprawl. \n(1 x 1)  \n(1)",
+        "answer": "The uncontrolled/unplanned/formless expansion of an urban area (1) \n [CONCEPT] \n(1 x 1) (1)",
         "related_images": []
     },
     "4.3.2": {
-        "detailed_question": "Give evidence from FIGURE 4.3 that suggests that urban sprawl is",
-        "answer": "The new buildings (in after diagram) don't follow an organised/planned pattern",
+        "question_description": "Give evidence from FIGURE",
+        "detailed_question": "Give evidence from FIGURE",
+        "answer": "The new buildings (in after diagram) don't follow an organised/planned pattern \n(2) \nInvasion into the surrounding rural areas (2) \nHouses between the fingers have developed (2)  \nNew buildings have been constructed in the outskirts/rural urban fringe (2) \n[ANY ONE]                                                                                         (1 x 2) (2)",
         "related_images": []
     },
     "4.3.3": {
-        "detailed_question": "Why do local authorities find it difficult to control urban sprawl? (2 x 2)",
-        "answer": "It is difficult to control the development of informal settlements which results",
+        "question_description": "Why do local authorities find it difficult to control urban sprawl? (2 x 2)  \n(4)",
+        "detailed_question": "Why do local authorities find it difficult to control urban sprawl? (2 x 2)  \n(4)",
+        "answer": "It is difficult to control the development of informal settlements which results \nfrom a high level of urbanisation (2) \nThey have limited control over privately owned land (2) \nThey do not have the capacity to control the influx of people into urban areas \n(2) \nThey do not have the budget and time to plan urban areas in a controlled \nmanner (2) \nInterference of political parties/Illegal invasion of land (2) \nSome municipal officials sell land illegally/ corruption (2) \nLand invasion on unoccupied land (2) \nLegal protocols make it difficult for local authorities to impose the law (2) \nHigh demand to locate in urban areas (2) \n[ANY TWO]                                                                                        (2 x 2) (4)",
         "related_images": []
     },
     "4.3.4": {
-        "detailed_question": "In a paragraph of approximately EIGHT lines, discuss the",
-        "answer": "An influx of motor vehicles would cause an increase in air pollution (2)",
+        "question_description": "In a paragraph of approximately EIGHT lines, discuss the \nunfavourable environmental conditions caused by urban sprawl in \nthe rural-urban fringe. \n                                               (4 x 2) \n \n \n \n(8)",
+        "detailed_question": "In a paragraph of approximately EIGHT lines, discuss the \nunfavourable environmental conditions caused by urban sprawl in \nthe rural-urban fringe. \n                                               (4 x 2) \n \n \n \n(8)",
+        "answer": "An influx of motor vehicles would cause an increase in air pollution (2) \nDecentralisation of industries into the area contributes to global warming (2) \nAn increase in population/vehicle numbers adds to the noise/land pollution (2) \nIndustries in areas dumping waste water in nearby rivers (water pollution) (2) \nInfrastructural and housing development necessitates the clearing of \nvegetation (2) \nThis would decrease the availability of oxygen (clean air) in the area (2) \nDeforestation and a lack of vegetation cover would cause increased runoff \nand soil erosion (2) \nChanges in the local microclimate due the removal of vegetation (2) \nAesthetic beauty of the area would be diminished (2)  \nThe habitat for ecosystems in the area would be compromised (2) \nThere would be a loss of biodiversity (2) \nAn increase in population will cause water pollution due to lack of services (2) \nInfiltration is reduced affecting the water table negatively (2) \nWaste management becomes difficult resulting in (various forms of) pollution \n(2) \nArtificial surfaces lead to flash flooding due to reduced infiltration (2) \n[ANY FOUR]                                                                                        (4 x 2) (8)",
         "related_images": []
     },
     "4.4.1": {
-        "detailed_question": "Define the concept environmental injustice.",
-        "answer": "When the environment is treated in a manner that threatens to harm its",
+        "question_description": "Define the concept environmental injustice. \n(1 x 1)  \n(1)",
+        "detailed_question": "Define the concept environmental injustice. \n(1 x 1)  \n(1)",
+        "answer": "When the environment is treated in a manner that threatens to harm its \nexistence/pollution of the natural environment/destruction of the natural \nenvironment (1) \n[CONCEPT] \n (1 x 1) (1)",
         "related_images": []
     },
     "4.4.2": {
-        "detailed_question": "State the environmental injustice evident in FIGURE 4.4.",
-        "answer": "Air pollution (1)                                                                                      (1 x 1)",
+        "question_description": "State the environmental injustice evident in FIGURE",
+        "detailed_question": "considered an \nenvironmental injustice? \n(2 x 2) \n \n \n(4) \n \n \nc",
+        "answer": "Air pollution (1)                                                                                      (1 x 1) \n(1)",
         "related_images": []
     },
     "4.4.3": {
-        "detailed_question": "Give evidence from the photograph to support your answer to",
-        "answer": "Smoke from industries/power station being released into the atmosphere (1)",
+        "question_description": "Give evidence from the photograph to support your answer to \nQUESTION",
+        "detailed_question": "Give evidence from the photograph to support your answer to \nQUESTION",
+        "answer": "Smoke from industries/power station being released into the atmosphere (1) \nSteam/smoke from cooling towers (1) \n[ANY ONE]                                                                                          (1 x 1) (1)",
         "related_images": []
     },
     "4.4.4": {
-        "detailed_question": "Why is your answer to QUESTION 4.4.2 considered an",
-        "answer": "It is polluting the atmosphere/diminished air quality (2)",
+        "question_description": "Why is your answer to QUESTION",
+        "detailed_question": "Why is your answer to QUESTION",
+        "answer": "It is polluting the atmosphere/diminished air quality (2) \nIncreases temperature of the earth/global warming/ozone depletion (2) \nIncreases chemicals like sulphur dioxide in the air which causes acid rain (2) \nAcid rain lowers the soil fertility (2) \nSoot deposits are found on exposed objects (2) \nPolluted air increases the rate of smog (2) \n[ANY TWO] \n \n(2 x 2) (4)",
         "related_images": []
     },
     "4.4.5": {
-        "detailed_question": "Discuss how this environmental injustice will affect the local",
-        "answer": "People will suffer from health problems such as asthma and cancer (2)",
+        "question_description": "Discuss how this environmental injustice will affect the local \ncommunity. \n(2 x 2) \n \n \n(4)",
+        "detailed_question": "Discuss how this environmental injustice will affect the local \ncommunity. \n(2 x 2) \n \n \n(4)",
+        "answer": "People will suffer from health problems such as asthma and cancer (2) \nIt will result in increased medical costs for the local community (2) \nThe formation of smog causes visibility problems (2) \nAcid rain over the long term will negatively affect buildings/soil/vegetation (2) \nExploitation of labour might be done on the vulnerable job seekers (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "4.4.6": {
-        "detailed_question": "Explain how local authorities can develop sustainable solutions to",
-        "answer": "Use of renewable/non-conventional sources of energy will have less impact",
+        "question_description": "Explain how local authorities can develop sustainable solutions to \nreduce the impact of this injustice issue on the environment. (2 x 2) \n \n \n(4)",
+        "detailed_question": "Explain how local authorities can develop sustainable solutions to \nreduce the impact of this injustice issue on the environment. (2 x 2) \n \n \n(4)",
+        "answer": "Use of renewable/non-conventional sources of energy will have less impact \non the health of people (2) \nStricter control by local authorities on the levels of air pollution on a regular \nbasis (2) \nFines imposed on factory owners for exceeding the pollution levels (2) \nIncentives on tax rebates for factory owners who comply (2) \nCreate more green spaces and parks in the urban area (2) \nStacks of factories to be built higher so that pollutants can be dispersed into \nthe upper atmosphere (2) \nPut filters in factory stacks to reduce the amount of pollutants emitted (2) \nPromote awareness campaigns/education regarding clean energy resources \n(2) \nPromote industrial decentralisation to reduce pollution in the area (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "4.5.1": {
-        "detailed_question": "Name the new local investor in Saldanha Bay.",
-        "answer": "West Coast Corrosion Protection/WCCP (1)",
+        "question_description": "Name the new local investor in Saldanha Bay. \n(1 x 1)  \n(1)",
+        "detailed_question": "Name the new local investor in Saldanha Bay. \n(1 x 1)  \n(1)",
+        "answer": "West Coast Corrosion Protection/WCCP (1)  \n(1 x 1) (1)",
         "related_images": []
     },
     "4.5.2": {
-        "detailed_question": "What will be the core function of the new investor in the Saldanha",
-        "answer": "Corrosion protection (1)",
+        "question_description": "What will be the core function of the new investor in the Saldanha \nBay IDZ? \n(1 x 1) \n \n \n(1)",
+        "detailed_question": "What will be the core function of the new investor in the Saldanha \nBay IDZ? \n(1 x 1) \n \n \n(1)",
+        "answer": "Corrosion protection (1) \nIt will service a range of marine vessels (1) \n[ANY ONE] \n(1 x 1) (1)",
         "related_images": []
     },
     "4.5.3": {
-        "detailed_question": "State the physical (natural) factor that could have attracted the new",
-        "answer": "Natural bay (natural port) (1)",
+        "question_description": "State the physical (natural) factor that could have attracted the new \ninvestor to the Saldanha Bay IDZ. \n(1 x 1) \n \n \n(1)",
+        "detailed_question": "State the physical (natural) factor that could have attracted the new \ninvestor to the Saldanha Bay IDZ. \n(1 x 1) \n \n \n(1)",
+        "answer": "Natural bay (natural port) (1) \nFlat land (1) \nLarge amount of space available (1)  \n[ANY ONE] \n(1 x 1) (1)",
         "related_images": []
     },
     "4.5.4": {
-        "detailed_question": "Discuss how the new investment project in the Saldanha Bay IDZ",
-        "answer": "Road network in Saldanha Bay will be extended/upgraded (2)",
+        "question_description": "Discuss how the new investment project in the Saldanha Bay IDZ \nwould have a positive impact on transport infrastructure in the zone.  \n                                                                                                   (2 x 2) \n \n \n \n(4)",
+        "detailed_question": "Discuss how the new investment project in the Saldanha Bay IDZ \nwould have a positive impact on transport infrastructure in the zone.  \n                                                                                                   (2 x 2) \n \n \n \n(4)",
+        "answer": "Road network in Saldanha Bay will be extended/upgraded (2) \nRoad network linking Saldanha Bay to other areas will be extended/upgraded (2) \nHarbour facilities will be improved and extended (2) \nRailway network in the vicinity will be upgraded for the transport of bulky \ngoods  \n(2) \nBridges will be constructed to facilitate easier movement of goods/people (2) \nLinks between the different modes of transport (accept examples) improves \naccessibility/facilitate economic growth in the region (2) \n [ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "4.5.5": {
-        "detailed_question": "How will investments in the Saldanha Bay IDZ have an impact on",
-        "answer": "Positive:",
+        "question_description": "How will investments in the Saldanha Bay IDZ have an impact on \nthe people seeking employment in this zone? \n(2 x 2) \n \n \n(4)",
+        "detailed_question": "How will investments in the Saldanha Bay IDZ have an impact on \nthe people seeking employment in this zone? \n(2 x 2) \n \n \n(4)",
+        "answer": "Positive: \nCreate employment opportunities (2) \nIncreased earning potential (2) \nGreater skills development based on greater demand (2) \nPossible potential for promotions (2) \nImproved working conditions and employee benefits associated with working \nwith large companies (2) \nUpliftment of standard of living/multiplier effect (2) \nAlleviate poverty (2) \nNegative: \nSkilled workers from other areas are preferred above the locals of the area (2) \nSmaller local businesses in direct competition with the investors might close \nwith possible job losses (2) \nLocals in the area might not have the necessary qualifications for the \nemployment opportunities (2) \nSusceptible to corruption, nepotism, bribery in order to secure jobs (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "4.5.6": {
-        "detailed_question": "Suggest what social responsibility initiatives a new investment",
-        "answer": "Development of more facilities (accept explained examples) (2)",
+        "question_description": "Suggest what social responsibility initiatives a new investment \ncompany should have towards the local community.  \n(2 x 2) \n \n \n(4)",
+        "detailed_question": "Suggest what social responsibility initiatives a new investment \ncompany should have towards the local community.  \n(2 x 2) \n \n \n(4)",
+        "answer": "Development of more facilities (accept explained examples) (2) \nImprovement in services (accept explained examples) (2) \nLearnerships/Bursaries for the youth in the community (2) \nSports/Recreational/Cultural sponsorships (2) \nPartnerships with the community to reduce crime and youth empowerment (2) \nFeeding schemes for disadvantaged members of the community (2) \nProvision of PPE's/ medicines in cases of disease outbreaks (2) \nSkills development programs (2) \nImprovement of infrastructure (accept explained examples) (2) \nFunding/Create community employment projects (2) \nLocal people should be given preference to employment opportunities (2) \nFunding and upgrading of local schools (2) \nFunding environmental cleaning projects (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "4.6.1": {
-        "detailed_question": "What example of informal trade, according to the extract, is shown in",
-        "answer": "(Street) vendor/hawker (1)",
+        "question_description": "What example of informal trade, according to the extract, is shown in \nFIGURE",
+        "detailed_question": "What example of informal trade, according to the extract, is shown in \nFIGURE",
+        "answer": "(Street) vendor/hawker (1) \nSpaza shop (1) \n[ANY ONE] \n(1 x 1) (1)",
         "related_images": []
     },
     "4.6.2": {
-        "detailed_question": "How many people in South Africa are involved in the informal retail",
-        "answer": "750 000 (1)",
+        "question_description": "How many people in South Africa are involved in the informal retail \nsector?  \n(1 x 1) \n \n \n(1)",
+        "detailed_question": "How many people in South Africa are involved in the informal retail \nsector?  \n(1 x 1) \n \n \n(1)",
+        "answer": "750 000 (1) \n(1 x 1) (1)",
         "related_images": []
     },
     "4.6.3": {
-        "detailed_question": "Quote evidence from the extract to suggest that the informal sector",
-        "answer": "'There are few barriers to entering the informal sector' (1)",
+        "question_description": "Quote evidence from the extract to suggest that the informal sector \nis a much easier option to gain employment. \n(1 x 1) \n \n(1)",
+        "detailed_question": "Quote evidence from the extract to suggest that the informal sector \nis a much easier option to gain employment. \n(1 x 1) \n \n(1)",
+        "answer": "'There are few barriers to entering the informal sector' (1) \n\u2018Operating from home (spaza-shops)\u2019 (1) \n[ANY ONE] \n(1 x 1) (1)",
         "related_images": []
     },
     "4.6.4": {
-        "detailed_question": "According to the extract, why are so many women employed in the",
-        "answer": "Women have to fulfil domestic duties and the informal sector allows them to",
+        "question_description": "According to the extract, why are so many women employed in the \ninformal sector? \n(2 x 2) \n \n(4)",
+        "detailed_question": "According to the extract, why are so many women employed in the \ninformal sector? \n(2 x 2) \n \n(4)",
+        "answer": "Women have to fulfil domestic duties and the informal sector allows them to \ndo both from home (2) \nThere are few barriers to entering the informal sector (2) \nThe informal market is lucrative and provide easy employment opportunities \n(2) \nSmaller number of women have the required education and technical skills for \njobs in the formal sector (2) \nWomen normally have to head up households (breadwinners) as single \nmothers (2) \nFlexible hours allow women to perform business and domestic duties (2) \nGender inequality in the workplace causes less women to be employed (2) \n[ANY TWO] \n(2 x 2) (4)",
         "related_images": []
     },
     "4.6.5": {
-        "detailed_question": "In a paragraph of approximately EIGHT lines, discuss the positive",
-        "answer": "Creates employment for (local) people that cannot find employment in the",
+        "question_description": "In a paragraph of approximately EIGHT lines, discuss the positive \nimpact that the informal sector has on the economy of South Africa. \n \n(4 x 2) \n \n(8) \n \n \n \n \n[75] \n \n \n \n \n \nTOTAL:  225",
+        "detailed_question": "In a paragraph of approximately EIGHT lines, discuss the positive \nimpact that the informal sector has on the economy of South Africa. \n \n(4 x 2) \n \n(8) \n \n \n \n \n[75] \n \n \n \n \n \nTOTAL:  225",
+        "answer": "Creates employment for (local) people that cannot find employment in the \nformal sector (2) \nPeople are able to earn an income which increases buying power, resulting in \nan increase in the production of goods (2) \nInformal sector businesses purchase goods to sell from the formal sector \nincreasing their market (2) \nMultiplier effect stimulates other formal businesses (2) \nBusinesses in the formal sector sub-contract people from the informal  \nsector creating more employment (2) \nBy buying goods (accept examples) they pay VAT, this contributes to the tax \nof the country (2) \nGoods that are sold are cheap and affordable creating a bigger market thus \nincreasing production and trade (2) \nThe informal sector engages in partnerships with formal businesses (accept \nexamples) that stimulates business (2) \nPeople employed in the informal sector develop entrepreneurial skills needed \nin the economy (2) \n[ANY FOUR] \n(4 x 2) (8) \n    \n \n \n[75] \n \n \n \n \n \n \nTOTAL: 225",
         "related_images": []
     }
 }
